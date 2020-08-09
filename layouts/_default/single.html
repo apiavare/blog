@@ -12,10 +12,8 @@
           <li class="list-inline-item">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</li>
         </ul>
         <ul id="categories">
-          {{ if .Params.categories }}
-            {{ range .Params.categories }}
-              <li class="category-item" title="Category: {{ . }}"><a href="{{ `categories/` | relLangURL }}{{ . | urlize}}/">{{ . }}</a></li>
-            {{ end }}
+          {{ range (.GetTerms "categories") }}
+            <li class="category-item" title="Category: {{ .LinkTitle }}"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
           {{ end }}
         </ul>
         <div class="mb-50"></div>
