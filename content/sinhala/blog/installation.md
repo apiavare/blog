@@ -5,6 +5,9 @@ author: Nisal Matharage
 image_webp: images/blog/meghna.webp
 image: images/blog/meghna.jpg
 description : "මෙටා විස්තරය මෙතැන යොදන්න"
+categories:
+    - test
+    - camping
 ---
 
 ## Install this template by following those simple steps:

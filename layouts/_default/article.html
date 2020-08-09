@@ -10,6 +10,13 @@
     <div class="content">
       <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
       <p>{{ .Summary }}</p>
+      <ul id="categories">
+        {{ if .Params.categories }}
+          {{ range .Params.categories }}
+            <li class="category-item" title="Category: {{ . }}"><a href="{{ `categories/` | relLangURL }}{{ . | urlize}}/">{{ . }}</a></li>
+          {{ end }}
+        {{ end }}
+      </ul>
       <a class="btn btn-transparent" href="{{ .Permalink }}">{{ i18n "readMore" }}</a>
     </div>
   </div>

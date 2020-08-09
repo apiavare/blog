@@ -1,8 +1,35 @@
 :root {
-    --primary-color: #57cbcc;
-    --primary-bg: #6cb670;
+    --avare-green: #0b6064;
+    --avare-shadow: #208e93;
 }
 
-html body {
-    background-color: var(--primary-bg);
+ul#categories {
+    padding: 0;
+}
+
+.category-item {
+    display: inline-block;
+    padding: 2px 5px;
+    background-color: var(--avare-green);
+    transition: all 0.3s ease;
+}
+
+.category-item:hover {
+    box-shadow: 0 0 3px #208e93;
+}
+
+.category-item a {
+    color: #afbac4;
+    font-weight: 600;
+}
+
+.btn-transparent:hover,
+.btn-transparent:focus {
+    background-color: var(--avare-green);
+}
+
+.pagination .page-item .page-link:hover,
+.pagination .page-item.active .page-link {
+    background: var(--avare-green);
+    border-color: var(--avare-green);
 }
