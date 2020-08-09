@@ -135,16 +135,16 @@ link = "#"
 
 ################################ English Language ########################
 [Languages.en]
-languageName = "En"
+languageName = "English"
 languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
 copyright = "&copy; 2020 all right reserved"
 
-################################ France Language ########################
+################################ Sinhala Language ########################
 [Languages.si]
-languageName = "Si"
+languageName = "සිංහල"
 languageCode = "si-lk"
 contentDir = "content/sinhala"
 weight = 2

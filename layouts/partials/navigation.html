@@ -37,24 +37,26 @@
 				</ul>
 				<!-- Language List -->
 				{{- if site.IsMultiLingual }}
-				<select id="select-language" onchange="location = this.value;">
-					{{ $siteLanguages := site.Languages}}
-					{{ $pageLang := .Page.Lang}}
-					{{ range .Page.AllTranslations }}
-					{{ $translation := .}}
-					{{ range $siteLanguages }}
-					{{ if eq $translation.Lang .Lang }}
-					{{ $selected := false }}
-					{{ if eq $pageLang .Lang}}
-					<option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" selected>{{ .LanguageName }}
-					</option>
-					{{ else }}
-					<option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}">{{ .LanguageName }}</option>
-					{{ end }}
-					{{ end }}
-					{{ end }}
-					{{ end }}
-				</select>
+				<div class="lang-wrapper" title="{{ if eq .Page.Lang `en` }}Switch language{{ else }}භාෂාව වෙනස්කරන්න{{end}}">
+					<select id="select-language" class="lang-select" onchange="location = this.value;">
+						{{ $siteLanguages := site.Languages}}
+						{{ $pageLang := .Page.Lang}}
+						{{ range .Page.AllTranslations }}
+						{{ $translation := .}}
+						{{ range $siteLanguages }}
+						{{ if eq $translation.Lang .Lang }}
+						{{ $selected := false }}
+						{{ if eq $pageLang .Lang}}
+						<option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" class="lang-option" selected>{{ .LanguageName }}
+						</option>
+						{{ else }}
+						<option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" class="lang-option">{{ .LanguageName }}</option>
+						{{ end }}
+						{{ end }}
+						{{ end }}
+						{{ end }}
+					</select>
+				</div>
 				{{ end }}
 			</div>
 		</nav>

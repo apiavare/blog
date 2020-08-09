@@ -33,3 +33,44 @@ ul#categories {
     background: var(--avare-green);
     border-color: var(--avare-green);
 }
+
+.lang-wrapper {
+    position: relative;
+    width: auto;
+    float: left;
+    max-width: 100%;
+}
+.lang-select {
+    font-size: 1rem;
+    font-weight: 200;
+    max-width: 100%;
+    padding: 8px 10px 8px 10px;
+    border: none;
+    border-radius: 4px;
+    background-color: transparent;
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    appearance: none;
+    cursor: pointer;
+}
+.lang-select:active,
+.lang-select:focus {
+    outline: none;
+    box-shadow: none;
+}
+.lang-select::after {
+    content: "&#9660;";
+    position: absolute;
+    top: 50%;
+    margin-top: -2px;
+    right: 8px;
+    width: 0;
+    height: 0;
+    border-left: 5px solid transparent;
+    border-right: 5px solid transparent;
+    border-top: 5px solid #fff;
+}
+.lang-select:-moz-focusring {
+    color: transparent;
+    text-shadow: 0 0 0 #000;
+}
