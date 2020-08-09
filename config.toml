@@ -92,6 +92,7 @@ author = "Avare"
 google_analytics_id = "" # Your ID
 # post share
 post_share = true
+cloudinary_url = "https://res.cloudinary.com/avare-blog/image/upload"
 
 # preloader
 [params.preloader]
@@ -139,7 +140,7 @@ languageCode = "en-us"
 contentDir = "content/english"
 weight = 1
 home = "Home"
-copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) all right reserved"
+copyright = "&copy; 2020 all right reserved"
 
 ################################ France Language ########################
 [Languages.si]
@@ -148,4 +149,4 @@ languageCode = "si-lk"
 contentDir = "content/sinhala"
 weight = 2
 home = "නිවස"
-copyright = "copyright &copy; 2020 [gethugothemes](https://gethugothemes.com) himikam awirini"
+copyright = "&copy; 2020 හිමිකම් ඇවිරිණි"
