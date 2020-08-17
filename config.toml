@@ -136,7 +136,7 @@ link = "#"
 ################################ English Language ########################
 [Languages.en]
 languageName = "English"
-languageCode = "en-us"
+languageCode = "en"
 contentDir = "content/english"
 weight = 1
 home = "Home"
@@ -145,7 +145,7 @@ copyright = "&copy; 2020 all right reserved"
 ################################ Sinhala Language ########################
 [Languages.si]
 languageName = "සිංහල"
-languageCode = "si-lk"
+languageCode = "si"
 contentDir = "content/sinhala"
 weight = 2
 home = "නිවස"
