@@ -1,0 +1,7 @@
+<figure>
+    {{ $baseURL := site.Params.cloudinary_url }}
+    <img src="{{$baseURL}}/w_auto:100:600/{{.Get `id`}}" sizes="100vw" />
+    <figcaption>
+        <h4>{{.Get `caption`}}</h4>
+    </figcaption>
+</figure>
