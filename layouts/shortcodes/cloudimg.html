@@ -1,6 +1,15 @@
 <figure>
     {{ $baseURL := site.Params.cloudinary_url }}
-    <img src="{{$baseURL}}/w_auto:100:600/{{.Get `id`}}" sizes="100vw" />
+    <img
+        loading="lazy"
+        sizes="100vw"
+        srcset="{{$baseURL}}/f_auto,q_70,w_256/{{.Get `id`}} 256w,
+                {{$baseURL}}/f_auto,q_70,w_512/{{.Get `id`}} 512w,
+                {{$baseURL}}/f_auto,q_70,w_768/{{.Get `id`}} 768w,
+                {{$baseURL}}/f_auto,q_70,w_1024/{{.Get `id`}} 1024w,
+                {{$baseURL}}/f_auto,q_70,w_1280/{{.Get `id`}} 1280w"
+        src="{{$baseURL}}/f_auto,q_70,w_512/{{.Get `id`}}"
+        alt="{{.Get `caption`}}" />
     <figcaption>
         <h4>{{.Get `caption`}}</h4>
     </figcaption>

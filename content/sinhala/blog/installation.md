@@ -17,7 +17,7 @@ categories:
 Check this link below for install hugo on your computer.
 [hugo install documentation](https://gohugo.io/getting-started/installing/)
 
-{{< cloudimg id="v1596947317/samples/bike.jpg" caption="caption name" >}}
+{{< cloudimg id="samples/bike" caption="test image caption >}}
 
 ### STEP-2 : Create your project
 
