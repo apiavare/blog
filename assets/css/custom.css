@@ -78,3 +78,7 @@ ul#categories {
 .resp-sharing-button {
     border-radius: 4px;
 }
+
+figure img {
+    max-width: 100%;
+}
