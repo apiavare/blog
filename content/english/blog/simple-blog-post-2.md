@@ -4,7 +4,7 @@ title: Simple Blog Post
 date: 2018-09-12T12:52:36+06:00
 author: Chevindu Wickramathilaka
 cloudimg: blog/blog-post-1_sugbke
-subheading: Sub heading placeholder
+intro: Sub heading placeholder
 image: images/blog/blog-post-2.jpg
 description: This is meta description
 categories:

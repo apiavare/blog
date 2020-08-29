@@ -4,7 +4,7 @@ title: තෙවන බ්ලොග් ලිපිය
 date: 2018-09-12T12:52:36+06:00
 author: Chevindu Wickramathilaka
 cloudimg: blog/blog-post-1_sugbke
-subheading: Article sample subheading
+intro: Article sample intro
 image: images/blog/blog-post-1.jpg
 description: මෙටා විස්තරය මෙතැන යොදන්න
 categories:

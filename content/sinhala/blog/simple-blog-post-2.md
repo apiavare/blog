@@ -4,7 +4,7 @@ title: දෙවන බ්ලොග් ලිපිය
 date: 2018-09-12T12:52:36+06:00
 author: Chevindu Wickramathilaka
 cloudimg: blog/blog-post-2_sgchth
-subheading: Something something fancy2
+intro: Something something fancy2
 image: images/blog/blog-post-2.jpg
 description: මෙටා විස්තරය මෙතැන යොදන්න
 categories:

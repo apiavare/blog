@@ -4,7 +4,7 @@ title: පළමු බ්ලොග් ලිපිය
 date: 2018-09-12T12:52:36+06:00
 author: Chevindu Wickramathilaka
 cloudimg: blog/blog-post-3_b72plo
-subheading: Something something fancy1
+intro: Something something fancy1
 image: images/blog/blog-post-3.jpg
 description: මෙටා විස්තරය මෙතැන යොදන්න
 categories:
