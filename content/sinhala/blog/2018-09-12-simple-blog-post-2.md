@@ -3,6 +3,8 @@ title: "දෙවන බ්ලොග් ලිපිය"
 date: 2018-09-12T12:52:36+06:00
 image_webp: images/blog/blog-post-2.webp
 image: images/blog/blog-post-2.jpg
+cloudimg: blog/blog-post-2_sgchth
+subheading: "Something something fancy2"
 author: John Doe
 description : "මෙටා විස්තරය මෙතැන යොදන්න"
 ---

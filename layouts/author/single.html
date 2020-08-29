@@ -13,8 +13,13 @@
 				</div>
 				<div class="content text-center">
 					<figure>
-						{{ if .Params.Image }}
-						<img class="rounded-circle img-fluid lozad" data-src="{{.Params.Image | relURL }}">
+						{{ if .Params.cloudimg }}
+						<!-- <img class="rounded-circle img-fluid lozad" data-src="{{.Params.Image | relURL }}"> -->
+						{{ $baseURL := site.Params.cloudinary_url }}
+						<img class="rounded-circle img-fluid lozad"
+							loading="lazy"
+							data-src="{{$baseURL}}/f_auto,q_90,w_128,h_128,c_thumb/{{ .Params.cloudimg }}"
+							alt="author-image" />
 						{{else if .Params.Email}}
 						<img class="rounded-circle img-fluid lozad"
 							data-src="https://www.gravatar.com/avatar/{{ md5 .Params.email }}?s=128&pg&d=identicon">

@@ -1,6 +1,6 @@
 ---
 title: "Nisal Matharage"
-image: ""
+cloudimg: "sample"
 email: "nisal@gmail.org"
 social:
   - icon : "ti-facebook" # themify icon pack : https://themify.me/themify-icons
