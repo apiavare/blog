@@ -2,8 +2,19 @@
   <div class="post-block">
     <div class="media-wrapper">
       <a href="{{ .Permalink }}">
-        <img class="img-fluid lozad" data-src="{{ .Params.Image_webp | absURL }}"
-          onerror="this.onerror=null;this.src='{{ .Params.Image | absURL }}'">
+        <!-- <img class="img-fluid lozad" data-src="{{ .Params.Image_webp | absURL }}"
+          onerror="this.onerror=null;this.src='{{ .Params.Image | absURL }}'"> -->
+        {{ if .Params.cloudimg }}
+        <figure>
+          {{ $baseURL := site.Params.cloudinary_url }}
+          <img class="img-fluid lozad" loading="lazy" sizes="100vw" srcset="{{$baseURL}}/f_auto,q_90,w_256/{{ .Params.cloudimg }} 256w,
+                      {{$baseURL}}/f_auto,q_90,w_512/{{ .Params.cloudimg }} 512w,
+                      {{$baseURL}}/f_auto,q_90,w_512/{{ .Params.cloudimg }} 768w,
+                      {{$baseURL}}/f_auto,q_90,w_512/{{ .Params.cloudimg }} 1024w,
+                      {{$baseURL}}/f_auto,q_90,w_512/{{ .Params.cloudimg }} 1280w"
+            src="{{$baseURL}}/f_auto,q_90,w_380/{{ .Params.cloudimg }}" alt="blog-image" />
+        </figure>
+        {{ end }}
       </a>
     </div>
 
@@ -12,7 +23,8 @@
       <p>{{ .Summary }}</p>
       <ul id="categories">
         {{ range (.GetTerms "categories") }}
-          <li class="category-item" title="Category: {{ .LinkTitle }}"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a></li>
+        <li class="category-item" title="Category: {{ .LinkTitle }}"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+        </li>
         {{ end }}
       </ul>
       <a class="btn btn-transparent" href="{{ .Permalink }}">{{ i18n "readMore" }}</a>
