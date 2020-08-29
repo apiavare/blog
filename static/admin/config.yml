@@ -1,0 +1,59 @@
+backend:
+    name: git-gateway
+    branch: master #Branch to update (optional: defaults to master)
+
+publish_mode: editorial_workflow
+media_folder: "static/images/blog" #Actual media directory
+public_folder: "/images/blog" #For the src attribute in media
+
+collections:
+    - name: "articles-si"
+      label: "Sinhala Articles"
+      folder: "content/sinhala/blog"
+      create: true
+      slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+      fields:
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Publish Date", name: "date", widget: "datetime"}
+        - {label: "Author", name: "author", widget: "string"}
+        - {label: "Featured Image", name: "cloudimg", widget: "string"}
+        - {label: "Sub Heading", name: "subheading", widget: "string"}
+        - {label: "Meta Description", name: "description", widget: "string"}
+        - {label: "Categories", name: "categories", widget: "list", default: ["traveling"]}
+        - {label: "Body", name: "body", widget: "markdown"}
+    - name: "articles-en"
+      label: "English Articles"
+      folder: "content/english/blog"
+      create: true
+      slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+      fields:
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Publish Date", name: "date", widget: "datetime"}
+        - {label: "Author", name: "author", widget: "string"}
+        - {label: "Featured Image", name: "cloudimg", widget: "string"}
+        - {label: "Sub Heading", name: "subheading", widget: "string"}
+        - {label: "Meta Description", name: "description", widget: "string"}
+        - {label: "Categories", name: "categories", widget: "list", default: ["traveling"]}
+        - {label: "Body", name: "body", widget: "markdown"}
+    - name: "authors-si"
+      label: "Sinhala Authors"
+      folder: "content/sinhala/author"
+      create: true
+      slug: "{{slug}}"
+      fields:
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Email", name: "email", widget: "string"}
+        - {label: "Thumbnail", name: "cloudimg", widget: "string"}
+        - {label: "Social Links", name: "social", widget: "list", fields: [{label: "Icon", name: "icon", widget: "string"}, {label: "Link", name: "link", widget: "string"}]}
+        - {label: "Body", name: "body", widget: "markdown"}
+    - name: "articles-en"
+      label: "English Authors"
+      folder: "content/english/author"
+      create: true
+      slug: "{{slug}}"
+      fields:
+        - {label: "Title", name: "title", widget: "string"}
+        - {label: "Email", name: "email", widget: "string"}
+        - {label: "Thumbnail", name: "cloudimg", widget: "string"}
+        - {label: "Social Links", name: "social", widget: "list", fields: [{label: "Icon", name: "icon", widget: "string"}, {label: "Link", name: "link", widget: "string"}]}
+        - {label: "Body", name: "body", widget: "markdown"}
