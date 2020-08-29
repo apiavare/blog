@@ -2,7 +2,7 @@
 title: What is car camping?
 slug: what-is-car-camping
 date: 2020-08-29T12:53:40.679Z
-author: Chevindu Wickramathilaka
+author: Pasindu Padmathilaka
 categories:
   - camping
 ---
