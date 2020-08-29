@@ -4,7 +4,7 @@ slug: what-is-car-camping
 date: 2020-08-29T12:53:40.679Z
 author: Chevindu Wickramathilaka
 categories:
-  - traveling
+  - camping
 ---
 Ever heard of car camping? It is a bit adventive word to here in Sri Lanka. However, it is none other
 than loading up your gear needed for the trip into your car, pull into a campsite and set up your tent
