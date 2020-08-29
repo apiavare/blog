@@ -6,33 +6,38 @@ publish_mode: editorial_workflow
 media_folder: "static/images/blog" #Actual media directory
 public_folder: "/images/blog" #For the src attribute in media
 
+site_url: https://avare-blog.netlify.app
+logo_url: https://avare-blog.netlify.app/images/favicon.png
+
 collections:
     - name: "articles-si"
       label: "Sinhala Articles"
       folder: "content/sinhala/blog"
       create: true
-      slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+      slug: "{{slug}}"
       fields:
         - {label: "Title", name: "title", widget: "string"}
+        - {label: "Slug", name: "slug", widget: "string"}
         - {label: "Publish Date", name: "date", widget: "datetime"}
         - {label: "Author", name: "author", widget: "string"}
-        - {label: "Featured Image", name: "cloudimg", widget: "string"}
-        - {label: "Sub Heading", name: "subheading", widget: "string"}
-        - {label: "Meta Description", name: "description", widget: "string"}
+        - {label: "Featured Image", name: "cloudimg", widget: "string", default: ""}
+        - {label: "Sub Heading", name: "subheading", widget: "string", default: ""}
+        - {label: "Meta Description", name: "description", widget: "string", default: ""}
         - {label: "Categories", name: "categories", widget: "list", default: ["traveling"]}
         - {label: "Body", name: "body", widget: "markdown"}
     - name: "articles-en"
       label: "English Articles"
       folder: "content/english/blog"
       create: true
-      slug: "{{year}}-{{month}}-{{day}}-{{slug}}"
+      slug: "{{slug}}"
       fields:
         - {label: "Title", name: "title", widget: "string"}
+        - {label: "Slug", name: "slug", widget: "string"}
         - {label: "Publish Date", name: "date", widget: "datetime"}
         - {label: "Author", name: "author", widget: "string"}
-        - {label: "Featured Image", name: "cloudimg", widget: "string"}
-        - {label: "Sub Heading", name: "subheading", widget: "string"}
-        - {label: "Meta Description", name: "description", widget: "string"}
+        - {label: "Featured Image", name: "cloudimg", widget: "string", default: ""}
+        - {label: "Sub Heading", name: "subheading", widget: "string", default: ""}
+        - {label: "Meta Description", name: "description", widget: "string", default: ""}
         - {label: "Categories", name: "categories", widget: "list", default: ["traveling"]}
         - {label: "Body", name: "body", widget: "markdown"}
     - name: "authors-si"
