@@ -46,7 +46,7 @@ collections:
         - {label: "Thumbnail", name: "cloudimg", widget: "string"}
         - {label: "Social Links", name: "social", widget: "list", fields: [{label: "Icon", name: "icon", widget: "string"}, {label: "Link", name: "link", widget: "string"}]}
         - {label: "Body", name: "body", widget: "markdown"}
-    - name: "articles-en"
+    - name: "authors-en"
       label: "English Authors"
       folder: "content/english/author"
       create: true
