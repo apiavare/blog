@@ -1,15 +1,16 @@
 ---
-title: "හියුගෝ තේමාව සකස් කරගන්නා හැටි"
+image_webp: images/blog/meghna.webp
+title: හියුගෝ තේමාව සකස් කරගන්නා හැටි
+slug: genesis
 date: 2018-09-12T14:51:12+06:00
 author: Nisal Matharage
-image_webp: images/blog/meghna.webp
-image: images/blog/meghna.jpg
 cloudimg: blog/meghna_g0eqod
-subheading: "Something something intro"
-description : "මෙටා විස්තරය මෙතැන යොදන්න"
+subheading: Something something intro
+image: images/blog/meghna.jpg
+description: මෙටා විස්තරය මෙතැන යොදන්න
 categories:
-    - test
-    - camping
+  - test
+  - camping
 ---
 
 ## Install this template by following those simple steps:
