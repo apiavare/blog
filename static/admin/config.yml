@@ -48,9 +48,9 @@ collections:
       fields:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Email", name: "email", widget: "string"}
-        - {label: "Thumbnail", name: "cloudimg", widget: "string"}
+        - {label: "Thumbnail", name: "cloudimg", widget: "string", required: false}
         - {label: "Social Links", name: "social", widget: "list", fields: [{label: "Icon", name: "icon", widget: "string"}, {label: "Link", name: "link", widget: "string"}]}
-        - {label: "Body", name: "body", widget: "markdown"}
+        - {label: "Body", name: "body", widget: "markdown", required: false}
     - name: "authors-en"
       label: "English Authors"
       folder: "content/english/author"
@@ -59,6 +59,6 @@ collections:
       fields:
         - {label: "Title", name: "title", widget: "string"}
         - {label: "Email", name: "email", widget: "string"}
-        - {label: "Thumbnail", name: "cloudimg", widget: "string"}
+        - {label: "Thumbnail", name: "cloudimg", widget: "string", required: false}
         - {label: "Social Links", name: "social", widget: "list", fields: [{label: "Icon", name: "icon", widget: "string"}, {label: "Link", name: "link", widget: "string"}]}
-        - {label: "Body", name: "body", widget: "markdown"}
+        - {label: "Body", name: "body", widget: "markdown", required: false}
