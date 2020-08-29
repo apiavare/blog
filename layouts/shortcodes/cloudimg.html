@@ -1,4 +1,4 @@
-<figure>
+<figure class="avare-resp-figure">
     {{ $baseURL := site.Params.cloudinary_url }}
     <img
         loading="lazy"
@@ -10,7 +10,5 @@
                 {{$baseURL}}/f_auto,q_70,w_1280/{{.Get `id`}} 1280w"
         src="{{$baseURL}}/f_auto,q_70,w_512/{{.Get `id`}}"
         alt="{{.Get `caption`}}" />
-    <figcaption>
-        <h4>{{.Get `caption`}}</h4>
-    </figcaption>
+    <figcaption>{{.Get `caption`}}</figcaption>
 </figure>
