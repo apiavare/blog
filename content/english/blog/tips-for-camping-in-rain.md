@@ -1,8 +1,9 @@
 ---
 title: Tips for camping in rain?
 slug: tips-for-camping-in-rain
+translationKey: tips-for-camping-in-rain
 date: 2020-08-29T13:01:24.099Z
-author: Pasindu Padmathilaka
+author: Team Avare
 categories:
   - camping
 ---
