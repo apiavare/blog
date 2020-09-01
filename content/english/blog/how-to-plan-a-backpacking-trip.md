@@ -4,6 +4,7 @@ slug: how-to-plan-a-backpacking-trip
 translationKey: how-to-plan-a-backpacking-trip
 date: 2020-09-01T06:49:35.628Z
 author: Team Avare
+cloudimg: blog/how-to-plan-a-trip-1_uv5igt
 categories:
   - backpacking
   - hiking
@@ -22,6 +23,8 @@ First of all, you need to narrow down your trip options, following will help you
 * Shuttles: If you are hiking point to point trail you need to consider the time schedule of local shuttle services, how to get back to your private vehicle, and so on.
 
 ## Resources for Backpacking
+
+{{< cloudimg id="blog/how-to-plan-a-trip-2_uwyuxr" caption="Gathering required resources" >}}
 
 After narrowing down your trip options you’ll be able to find trails that will meet your goals and will be appropriate for your skill level.
 
@@ -48,6 +51,8 @@ Now that you know the details of your destination, you’re ready to ensure you�
 * Check gear condition: Recheck your equipment is in good shape with no malfunctions. Make sure your shoes fit well and are comfortable.
 * Shared gear: Going with others? Decide who’s bringing what to avoid duplication or missing items. Commonly shared gear includes a stove, tent, and water filter.
 * Checklist: Make a checklist and layout the all the gear and check the items before you pack. Also, ask yourself, does this trip require something you don’t have.
+
+{{< cloudimg id="blog/how-to-plan-a-trip-3_zwzmpz" caption="Supplies and gear" >}}
 
 ## Final Preparation
 

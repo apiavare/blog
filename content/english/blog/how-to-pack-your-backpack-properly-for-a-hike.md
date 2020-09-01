@@ -4,6 +4,7 @@ slug: how-to-pack-your-backpack-properly-for-a-hike
 translationKey: how-to-pack-your-backpack-properly-for-a-hike
 date: 2020-09-01T07:19:29.850Z
 author: Team Avare
+cloudimg: blog/how-to-pack-backpack-1_kleuzm
 categories:
   - hiking
   - backpacking
@@ -12,11 +13,13 @@ You might have gone many backpacking trips around so far, but did you ever know 
 
 ## Main storage compartments of a backpack
 
-\[Create an image for this]
+{{< cloudimg id="blog/how-to-pack-backpack-2_ky0fxv" caption="Main parts of a backpack" >}}
 
 ## Tips for packing your backpack
 
 When loading your gear, remember to maintain comfort and convenience. Your gear must be packed comfortably so that it won’t interfere with your center of gravity as well as it should be packed conveniently so you can get the gear you need without everything out.
+
+{{< cloudimg id="blog/how-to-pack-backpack-3_uet4vg" caption="Packing the backpack" >}}
 
 ### Bottom Zone
 
@@ -58,6 +61,8 @@ You can even stash your tent to the top zone if you need fast access for it.
 
 Include lid pockets, front pockets, side pockets and hip belt pockets. The availability of these pockets may depend on the brand of your pack.
 
+{{< cloudimg id="blog/how-to-pack-backpack-4_wsqyef" caption="Accessory pockets" >}}
+
 Best for the essentials you’ll need urgently or often on the trail.
 
 * Map
@@ -86,7 +91,7 @@ For oversized or overly long items.
 * Large sleeping pads
 * Climbing ropes
 
-
+{{< cloudimg id="blog/how-to-pack-backpack-5_sc0n0i" caption="Loops and lash-on points" >}}
 
 Many packs have special tool loops, fasteners or other storage solutions for some of this gear. Daisy chains, lash patches and compression straps can also be used to wrangle gear that simply can’t be carried in any other place.
 
@@ -104,5 +109,5 @@ Thereafter, if you have extra room in your backpack, then treat yourself with so
 
 ### References
 
-* <https://www.rei.com/learn/expert-advice/loading-backpack.html>
-* <https://www.backpacker.com/skills/how-to-pack-a-backpack>
+https://www.rei.com/learn/expert-advice/loading-backpack.html
+https://www.backpacker.com/skills/how-to-pack-a-backpack
