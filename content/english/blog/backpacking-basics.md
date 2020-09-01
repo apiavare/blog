@@ -1,6 +1,7 @@
 ---
 title: Backpacking Basics
 slug: backpacking-basics
+translationKey: මූලික බැක්පැකිං දැනුම
 date: 2020-08-29T14:19:52.381Z
 author: Team Avare
 categories:
