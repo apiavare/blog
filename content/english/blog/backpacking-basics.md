@@ -2,7 +2,7 @@
 title: Backpacking Basics
 slug: backpacking-basics
 date: 2020-08-29T14:19:52.381Z
-author: Pasindu Padmathilaka
+author: Team Avare
 categories:
   - backpacking
   - hiking
