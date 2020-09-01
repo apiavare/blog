@@ -1,8 +1,9 @@
 ---
 title: What is car camping?
 slug: what-is-car-camping
+translationKey: what-is-car-camping
 date: 2020-08-29T12:53:40.679Z
-author: Pasindu Padmathilaka
+author: Team Avare
 categories:
   - camping
 ---
