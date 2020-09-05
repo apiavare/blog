@@ -97,7 +97,7 @@ cloudinary_url = "https://res.cloudinary.com/avare-blog/image/upload"
 # preloader
 [params.preloader]
 enable = true
-preloader = "images/logo.png"
+preloader = "images/sigil.png"
 
 # google map
 [params.map]
