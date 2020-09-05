@@ -3,7 +3,26 @@
 		<nav class="navbar navbar-expand-lg navbar-dark">
 			<a class="navbar-brand p-0" href="{{ .Site.BaseURL | relLangURL }}">
 				{{ if site.Params.logo }}
-				<img class="lozad" data-src="{{ site.Params.logo | absURL }}" alt="{{ .Site.Title }}" height="42">
+				<svg width="42" height="42" viewBox="0 0 80 80" fill="none" xmlns="http://www.w3.org/2000/svg">
+					<circle cx="40" cy="40" r="40" fill="#004346" />
+					<path
+						d="M28.5903 35.0703H50.8605L60.8409 51.8768C60.8409 51.8768 48.8835 47.1111 39.6 47.1111C30.8276 47.1111 18.4234 51.8768 18.4234 51.8768L28.5903 35.0703Z"
+						fill="white" />
+					<path d="M33.4082 27.1091H46.1275L50.0719 33.7433H29.3938L33.4082 27.1091Z" fill="white" />
+					<path d="M39.8272 16.4949L45.3426 25.7827H34.2044L39.8272 16.4949Z" fill="white" />
+					<path
+						d="M21.3325 47.0431C21.6422 46.5374 22.2934 46.3939 22.7871 46.7225C23.2807 47.0512 23.4297 47.7275 23.12 48.2333L15.6817 60.379C15.372 60.8847 14.7208 61.0283 14.2272 60.6996C13.7336 60.371 13.5845 59.6946 13.8942 59.1889L21.3325 47.0431Z"
+						fill="white" />
+					<path
+						d="M43.6887 9.83379C43.9884 9.3226 44.6364 9.1664 45.1361 9.48491C45.6358 9.80341 45.7979 10.476 45.4982 10.9872L38.2879 23.2853C37.9882 23.7965 37.3402 23.9527 36.8405 23.6342C36.3408 23.3157 36.1787 22.6431 36.4784 22.1319L43.6887 9.83379Z"
+						fill="white" />
+					<path
+						d="M57.0406 49.6437C56.7265 49.1404 56.8699 48.4625 57.3609 48.1294C57.8518 47.7964 58.5043 47.9345 58.8183 48.4377L66.0981 60.1051C66.4121 60.6084 66.2687 61.2863 65.7778 61.6193C65.2869 61.9523 64.6344 61.8143 64.3204 61.311L57.0406 49.6437Z"
+						fill="white" />
+					<path
+						d="M34.0651 10.9732C33.7634 10.4631 33.923 9.78975 34.4215 9.46926C34.92 9.14877 35.5687 9.30251 35.8704 9.81265L42.8785 21.6641C43.1802 22.1743 43.0206 22.8476 42.5221 23.1681C42.0235 23.4886 41.3749 23.3349 41.0732 22.8247L34.0651 10.9732Z"
+						fill="white" />
+				</svg>
 				{{ end }}
 				<h1 class="navbar-heading">{{ site.Title }}</h1>
 			</a>
@@ -23,7 +42,8 @@
 					{{ else }}
 
 					{{ range site.Menus.main }}
-					<li class="nav-item"><a class="nav-link" href="{{ site.BaseURL | relLangURL }}#{{ .URL }}">{{ i18n .Name }}</a>
+					<li class="nav-item"><a class="nav-link"
+							href="{{ site.BaseURL | relLangURL }}#{{ .URL }}">{{ i18n .Name }}</a>
 					</li>
 					{{ end }}
 					{{ end }}
@@ -36,7 +56,8 @@
 				</ul>
 				<!-- Language List -->
 				{{- if site.IsMultiLingual }}
-				<div class="lang-wrapper" title="{{ if eq .Page.Lang `en` }}Switch language{{ else }}භාෂාව වෙනස්කරන්න{{end}}">
+				<div class="lang-wrapper"
+					title="{{ if eq .Page.Lang `en` }}Switch language{{ else }}භාෂාව වෙනස්කරන්න{{end}}">
 					<select id="select-language" class="lang-select" onchange="location = this.value;">
 						{{ $siteLanguages := site.Languages}}
 						{{ $pageLang := .Page.Lang}}
@@ -46,10 +67,12 @@
 						{{ if eq $translation.Lang .Lang }}
 						{{ $selected := false }}
 						{{ if eq $pageLang .Lang}}
-						<option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" class="lang-option" selected>{{ .LanguageName }}
+						<option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}"
+							class="lang-option" selected>{{ .LanguageName }}
 						</option>
 						{{ else }}
-						<option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}" class="lang-option">{{ .LanguageName }}</option>
+						<option id="{{ $translation.Language }}" value="{{ $translation.Permalink }}"
+							class="lang-option">{{ .LanguageName }}</option>
 						{{ end }}
 						{{ end }}
 						{{ end }}
