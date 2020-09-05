@@ -1,8 +1,8 @@
 ############################## Contact #############################
 contact:
   enable : true
-  title : Contact Us
-  subtitle : Contact Details
+  title : අපව අමතන්න
+  subtitle : සම්බන්ධ කරගතහැකි ක්‍රම
   content : Lorem ipsum dolor sit amet, consectetur adipisicing elit. Ipsam, vero, provident, eum eligendi blanditiis ex explicabo vitae nostrum facilis asperiores dolorem illo officiis ratione vel fugiat dicta laboriosam labore adipisci.
 
   # Contact details
@@ -24,8 +24,8 @@ contact:
   contact_form:
     enable : true
     form_action : "#" #contact form works with https://formspree.io
-    name : "votre nom"
-    email : "Votre email"
-    subject : "Matière"
-    message : "Message"
-    submit : "Soumettre"
+    name : "නම"
+    email : "වි-තැපැල් ලිපිනය"
+    subject : "මාතෘකාව"
+    message : "පණිවිඩය"
+    submit : "යවන්න"
