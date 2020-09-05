@@ -63,6 +63,10 @@ h6 {
     font-family: "Nunito", Arial, sans-serif;
 }
 
+.post-block .content {
+    color: var(--avare-body-text);
+}
+
 .post-single-content {
     color: var(--avare-body-text);
 }
