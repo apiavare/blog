@@ -1,3 +1,53 @@
+/* nunito-300 - latin */
+@font-face {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 300;
+    src: local('Nunito Light'), local('Nunito-Light'),
+         url('../fonts/nunito-v13-latin-300.woff2') format('woff2'),
+         url('../fonts/nunito-v13-latin-300.woff') format('woff');
+  }
+  
+  /* nunito-regular - latin */
+  @font-face {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 400;
+    src: local('Nunito Regular'), local('Nunito-Regular'),
+         url('../fonts/nunito-v13-latin-regular.woff2') format('woff2'),
+         url('../fonts/nunito-v13-latin-regular.woff') format('woff');
+  }
+  
+  /* nunito-italic - latin */
+  @font-face {
+    font-family: 'Nunito';
+    font-style: italic;
+    font-weight: 400;
+    src: local('Nunito Italic'), local('Nunito-Italic'),
+         url('../fonts/nunito-v13-latin-italic.woff2') format('woff2'),
+         url('../fonts/nunito-v13-latin-italic.woff') format('woff');
+  }
+  
+  /* nunito-700 - latin */
+  @font-face {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 700;
+    src: local('Nunito Bold'), local('Nunito-Bold'),
+         url('../fonts/nunito-v13-latin-700.woff2') format('woff2'),
+         url('../fonts/nunito-v13-latin-700.woff') format('woff');
+  }
+  
+  /* nunito-800 - latin */
+  @font-face {
+    font-family: 'Nunito';
+    font-style: normal;
+    font-weight: 800;
+    src: local('Nunito ExtraBold'), local('Nunito-ExtraBold'),
+         url('../fonts/nunito-v13-latin-800.woff2') format('woff2'),
+         url('../fonts/nunito-v13-latin-800.woff') format('woff');
+  }
+  
 :root {
     --avare-green: #0b6064;
     --avare-shadow: #208e93;
@@ -5,6 +55,10 @@
 
 * {
     line-height: 1.7rem;
+}
+
+h1, h2, h3, h4, h6 {
+    font-family: 'Nunito', Arial, sans-serif;
 }
 
 .col-lg-12 .post-single-content > * {
