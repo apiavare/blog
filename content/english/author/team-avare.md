@@ -1,7 +1,7 @@
 ---
 title: Team Avare
 email: avare.dpt@gmail.com
-cloudimg: sample
+cloudimg: authors/team-avare_il8zgw
 social:
   - icon: ti-facebook
     link: "#"
