@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://avare-blog.netlify.app"
-title = "Api Avare"
+title = "ApiAvare"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
