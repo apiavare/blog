@@ -1,6 +1,6 @@
 ################################# Default configuration ###################
 baseURL = "https://avare-blog.netlify.app"
-title = "Avare"
+title = "Api Avare"
 theme = "meghna-hugo"
 # post pagination
 paginate = "6"
@@ -10,6 +10,7 @@ summaryLength = "15"
 disqusShortname = "avare-blog" # get your shortname form here : https://disqus.com
 # disable language
 disableLanguages = []
+publishDir = "docs"
 
 ############################# Plugins ##########################
 # css plugins
