@@ -7,8 +7,7 @@
         {{ if .Params.cloudimg }}
         <figure>
           {{ $baseURL := site.Params.cloudinary_url }}
-          <img class="img-fluid lozad" loading="lazy" sizes="100vw" srcset="{{$baseURL}}/f_auto,q_90,w_256/{{ .Params.cloudimg }} 256w,
-                      {{$baseURL}}/f_auto,q_90,w_512/{{ .Params.cloudimg }} 512w,
+          <img class="img-fluid lozad" loading="lazy" sizes="100vw" srcset="{{$baseURL}}/f_auto,q_90,w_512/{{ .Params.cloudimg }} 512w,
                       {{$baseURL}}/f_auto,q_90,w_512/{{ .Params.cloudimg }} 768w,
                       {{$baseURL}}/f_auto,q_90,w_512/{{ .Params.cloudimg }} 1024w,
                       {{$baseURL}}/f_auto,q_90,w_512/{{ .Params.cloudimg }} 1280w"
