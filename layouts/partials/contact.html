@@ -37,7 +37,10 @@
 			{{ if .contact_form.enable }}
 			{{ with .contact_form }}
 			<div class="col-lg-6 wow fadeInUp" data-wow-duration="500ms" data-wow-delay="300ms">
-				<form id="contact-form" class="form-meghna" method="post" action="{{ .form_action }}" role="form" name="contact-form" netlify>
+				<form id="contact-form" class="form-meghna" method="post" action="{{ .form_action }}" role="form" name="contact-form" netlify netlify-honeypot="bot-field">
+					<div class="form-group" style="visibility:hidden;position:absolute;">
+						<input type="text" placeholder="Leave this empty if you're human" class="form-control" name="bot-field" />
+					</div>
 					<div class="form-group">
 						<input type="text" placeholder="{{ .name }}" class="form-control" name="name" id="name">
 					</div>
