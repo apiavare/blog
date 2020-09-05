@@ -1,94 +1,100 @@
 /* nunito-300 - latin */
 @font-face {
-    font-family: 'Nunito';
+    font-family: "Nunito";
     font-style: normal;
     font-weight: 300;
-    src: local('Nunito Light'), local('Nunito-Light'),
-         url('../fonts/nunito-v13-latin-300.woff2') format('woff2'),
-         url('../fonts/nunito-v13-latin-300.woff') format('woff');
-  }
-  
-  /* nunito-regular - latin */
-  @font-face {
-    font-family: 'Nunito';
+    src: local("Nunito Light"), local("Nunito-Light"), url("../fonts/nunito-v13-latin-300.woff2") format("woff2"),
+        url("../fonts/nunito-v13-latin-300.woff") format("woff");
+}
+
+/* nunito-regular - latin */
+@font-face {
+    font-family: "Nunito";
     font-style: normal;
     font-weight: 400;
-    src: local('Nunito Regular'), local('Nunito-Regular'),
-         url('../fonts/nunito-v13-latin-regular.woff2') format('woff2'),
-         url('../fonts/nunito-v13-latin-regular.woff') format('woff');
-  }
-  
-  /* nunito-italic - latin */
-  @font-face {
-    font-family: 'Nunito';
+    src: local("Nunito Regular"), local("Nunito-Regular"),
+        url("../fonts/nunito-v13-latin-regular.woff2") format("woff2"),
+        url("../fonts/nunito-v13-latin-regular.woff") format("woff");
+}
+
+/* nunito-italic - latin */
+@font-face {
+    font-family: "Nunito";
     font-style: italic;
     font-weight: 400;
-    src: local('Nunito Italic'), local('Nunito-Italic'),
-         url('../fonts/nunito-v13-latin-italic.woff2') format('woff2'),
-         url('../fonts/nunito-v13-latin-italic.woff') format('woff');
-  }
-  
-  /* nunito-700 - latin */
-  @font-face {
-    font-family: 'Nunito';
+    src: local("Nunito Italic"), local("Nunito-Italic"), url("../fonts/nunito-v13-latin-italic.woff2") format("woff2"),
+        url("../fonts/nunito-v13-latin-italic.woff") format("woff");
+}
+
+/* nunito-700 - latin */
+@font-face {
+    font-family: "Nunito";
     font-style: normal;
     font-weight: 700;
-    src: local('Nunito Bold'), local('Nunito-Bold'),
-         url('../fonts/nunito-v13-latin-700.woff2') format('woff2'),
-         url('../fonts/nunito-v13-latin-700.woff') format('woff');
-  }
-  
-  /* nunito-800 - latin */
-  @font-face {
-    font-family: 'Nunito';
+    src: local("Nunito Bold"), local("Nunito-Bold"), url("../fonts/nunito-v13-latin-700.woff2") format("woff2"),
+        url("../fonts/nunito-v13-latin-700.woff") format("woff");
+}
+
+/* nunito-800 - latin */
+@font-face {
+    font-family: "Nunito";
     font-style: normal;
     font-weight: 800;
-    src: local('Nunito ExtraBold'), local('Nunito-ExtraBold'),
-         url('../fonts/nunito-v13-latin-800.woff2') format('woff2'),
-         url('../fonts/nunito-v13-latin-800.woff') format('woff');
-  }
-  
+    src: local("Nunito ExtraBold"), local("Nunito-ExtraBold"),
+        url("../fonts/nunito-v13-latin-800.woff2") format("woff2"),
+        url("../fonts/nunito-v13-latin-800.woff") format("woff");
+}
+
 :root {
     --avare-green: #0b6064;
     --avare-shadow: #208e93;
+    --avare-body-text: #afbac4;
 }
 
 * {
     line-height: 1.7rem;
 }
 
-h1, h2, h3, h4, h6 {
-    font-family: 'Nunito', Arial, sans-serif;
+h1,
+h2,
+h3,
+h4,
+h6 {
+    font-family: "Nunito", Arial, sans-serif;
 }
 
-.col-lg-12 .post-single-content > * {
+.post-single-content {
+    color: var(--avare-body-text);
+}
+
+.post-single-content > * {
     max-width: 750px;
     margin: 20px auto 10px;
 }
 
-.col-lg-12 .post-single-content h1,
-.col-lg-12 .post-single-content h2,
-.col-lg-12 .post-single-content h3,
-.col-lg-12 .post-single-content h4,
-.col-lg-12 .post-single-content h5,
-.col-lg-12 .post-single-content h6 {
+.post-single-content h1,
+.post-single-content h2,
+.post-single-content h3,
+.post-single-content h4,
+.post-single-content h5,
+.post-single-content h6 {
     margin: 40px auto 20px;
 }
 
-.col-lg-12 .post-single-content p,
-.col-lg-12 .post-single-content pre {
+.post-single-content p,
+.post-single-content pre {
     margin: 0 auto 10px;
 }
 
-.col-lg-12 .post-single-content figure,
-.col-lg-12 .post-single-content figure img {
+.post-single-content figure,
+.post-single-content figure img {
     max-width: 100%;
 }
 
-.col-lg-12 .post-single-content ul {
+.post-single-content ul {
     padding-left: 70px;
 }
-.col-lg-12 .post-single-content ul li {
+.post-single-content ul li {
     margin-bottom: 5px;
 }
 
@@ -121,6 +127,17 @@ ul#categories {
 .pagination .page-item.active .page-link {
     background: var(--avare-green);
     border-color: var(--avare-green);
+}
+
+.navbar-brand {
+    display: inline-flex;
+}
+
+.navbar-brand .navbar-heading {
+    display: inline-block;
+    font-size: 2rem;
+    margin-left: 10px;
+    color: #fff;
 }
 
 .lang-wrapper {
