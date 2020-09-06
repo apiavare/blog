@@ -16,15 +16,12 @@
 	<link rel="stylesheet" href="{{ .link | absURL }}">
 	{{ end }}
 
-	{{"<!-- Main Stylesheet -->"| safeHTML}}
+	{{"<!-- Main Stylesheet -->" | safeHTML }}
 	{{ $styles := resources.Get "css/style.css" | minify | fingerprint "sha384" }}
 	<link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
 	
-	{{"<!-- Custom stylesheet - for your changes -->" | safeHTML}}
-	{{ $customStyles := resources.Get "css/custom.css" | minify | fingerprint "sha384" }}
-	<link rel="stylesheet" href="{{ $customStyles.Permalink }}" integrity="{{ $customStyles.Data.Integrity }}" media="screen">
-	
-	{{ $customSass := resources.Get "scss/test.scss" | toCSS | minify | fingerprint "sha384" }}
+	{{"<!-- Custom Styles -->" | safeHTML }}
+	{{ $customSass := resources.Get "scss/styles.scss" | toCSS | minify | fingerprint "sha384" }}
 	<link rel="stylesheet" href="{{ $customSass.Permalink }}" integrity="{{ $customSass.Data.Integrity }}" media="screen">
 
 	{{ "<!--Favicon-->" | safeHTML }}

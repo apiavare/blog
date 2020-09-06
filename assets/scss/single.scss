@@ -1,0 +1,42 @@
+.post-single-content {
+    color: var(--avare-body-text);
+
+    & > * {
+        max-width: 750px;
+        margin: 20px auto 10px;
+    }
+
+    h1,
+    h2,
+    h3,
+    h4,
+    h5,
+    h6 {
+        margin: 40px auto 20px;
+    }
+
+    p,
+    pre {
+        margin: 0 auto 10px;
+    }
+
+    figure,
+    figure img {
+        max-width: 100%;
+    }
+
+    ul {
+        padding-left: 70px;
+
+        li {
+            margin-bottom: 5px;
+        }
+    }
+
+    .intro-content {
+        text-align: center;
+        margin-bottom: 20px;
+        font-style: italic;
+    }
+    
+}

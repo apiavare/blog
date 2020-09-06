@@ -1,0 +1,30 @@
+.btn-transparent:hover,
+.btn-transparent:focus {
+    background-color: var(--avare-green);
+}
+
+.pagination .page-item .page-link:hover,
+.pagination .page-item.active .page-link {
+    background: var(--avare-green);
+    border-color: var(--avare-green);
+}
+
+.navbar-brand {
+    display: inline-flex;
+}
+
+.navbar-brand .navbar-heading {
+    display: inline-block;
+    font-size: 2rem;
+    margin-left: 10px;
+    color: #fff;
+}
+
+.social-share {
+    max-width: 600px;
+    margin: auto;
+}
+
+.resp-sharing-button {
+    border-radius: 4px;
+}

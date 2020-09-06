@@ -17,7 +17,7 @@
     <div class="content">
       <h3><a href="{{ .Permalink }}">{{ .Title }}</a></h3>
       <p>{{ .Summary }}</p>
-      <ul id="categories">
+      <ul id="categories" class="categories">
         {{ range (.GetTerms "categories") }}
         <li class="category-item" title="Category: {{ .LinkTitle }}"><a href="{{ .Permalink }}">{{ .LinkTitle }}</a>
         </li>
