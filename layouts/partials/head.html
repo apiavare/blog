@@ -23,6 +23,9 @@
 	{{"<!-- Custom stylesheet - for your changes -->" | safeHTML}}
 	{{ $customStyles := resources.Get "css/custom.css" | minify | fingerprint "sha384" }}
 	<link rel="stylesheet" href="{{ $customStyles.Permalink }}" integrity="{{ $customStyles.Data.Integrity }}" media="screen">
+	
+	{{ $customSass := resources.Get "scss/test.scss" | toCSS | minify | fingerprint "sha384" }}
+	<link rel="stylesheet" href="{{ $customSass.Permalink }}" integrity="{{ $customSass.Data.Integrity }}" media="screen">
 
 	{{ "<!--Favicon-->" | safeHTML }}
 	<link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
