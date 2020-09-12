@@ -2,14 +2,14 @@
 
 {{ partial "navigation.html" . }}
 
-{{"<!-- Start Blog Section -->" | safeHTML}}
+{{"<!-- Start Taxonomy Section -->" | safeHTML}}
 <section id="blog" class="section">
   <div class="container">
     <div class="row">
       <div class="col-12">
         {{"<!-- section title -->" | safeHTML}}
         <div class="title text-center wow fadeInDown">
-          <h2>{{ i18n "blogTitle" }}</h2>
+          <h2>Category: {{ .Title }}</h2>
           <div class="border-meghna"></div>
         </div>
       </div>
