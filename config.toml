@@ -46,10 +46,10 @@ link = "plugins/google-map/map.js"
 # URL = "about"
 # weight = 1
 
-# [[menu.main]]
-# name = "blog"
-# URL = "blog"
-# weight = 1
+[[menu.main]]
+name = "blog"
+URL = "blog"
+weight = 1
 
 # [[menu.main]]
 # name = "services"
@@ -86,10 +86,10 @@ weight = 3
 [params]
 logo = "images/sigil.png"
 # Meta data
-description = "Responsive Multipurpose Parallax HTML5 Template"
-author = "Avare"
+description = "ApiAvare is a virtual community of passionate & professional travelers, biologists, naturalists to share their expert knowledge for navigating you through the best traveling experience in complete safety."
+author = "ApiAvare"
 # Google Analytics
-google_analytics_id = "" # Your ID
+google_analytics_id = "UA-177874130-1" # Your ID
 # post share
 post_share = true
 cloudinary_url = "https://res.cloudinary.com/avare-blog/image/upload"
