@@ -4,12 +4,11 @@
     .category-item {
         display: inline-block;
         padding: 2px 5px;
+        border-radius: var(--border-radius-btn);
         background-color: var(--avare-green);
-        transition: all 0.3s ease;
+        transition: padding 200ms ease;
 
         &:hover {
-            box-shadow: 0 0 3px #208e93;
-            
             a {
                 padding: 0 10px;
             }

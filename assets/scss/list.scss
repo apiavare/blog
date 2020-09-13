@@ -1,3 +1,24 @@
-.post-block .content {
-    color: var(--avare-body-text);
+.avare-card {
+    transition: transform 200ms ease;
+    
+    .post-block {
+        border-radius: var(--border-radius);
+        
+        .media-wrapper img {
+            border-radius: var(--border-radius);
+        }
+
+        .content {
+            color: var(--avare-body-text);
+
+            .avare-readmore {
+                border-radius: var(--border-radius-btn);
+            }
+        }
+    }
+
+    &:hover {
+        transform: scale(1.05);
+
+    }
 }
