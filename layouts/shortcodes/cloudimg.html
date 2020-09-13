@@ -3,12 +3,12 @@
     <img
         loading="lazy"
         sizes="100vw"
-        srcset="{{$baseURL}}/f_auto,q_90,w_256/{{.Get `id`}} 256w,
-                {{$baseURL}}/f_auto,q_90,w_512/{{.Get `id`}} 512w,
-                {{$baseURL}}/f_auto,q_90,w_768/{{.Get `id`}} 768w,
-                {{$baseURL}}/f_auto,q_90,w_1024/{{.Get `id`}} 1024w,
-                {{$baseURL}}/f_auto,q_90,w_1280/{{.Get `id`}} 1280w"
-        src="{{$baseURL}}/f_auto,q_90,w_512/{{.Get `id`}}"
+        srcset="{{$baseURL}}/f_auto,w_256/{{.Get `id`}} 256w,
+                {{$baseURL}}/f_auto,w_512/{{.Get `id`}} 512w,
+                {{$baseURL}}/f_auto,w_768/{{.Get `id`}} 768w,
+                {{$baseURL}}/f_auto,w_1024/{{.Get `id`}} 1024w,
+                {{$baseURL}}/f_auto,w_1280/{{.Get `id`}} 1280w"
+        src="{{$baseURL}}/f_auto,w_512/{{.Get `id`}}"
         alt="{{.Get `caption`}}" />
     <figcaption>{{.Get `caption`}}</figcaption>
 </figure>
