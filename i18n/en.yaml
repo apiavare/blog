@@ -28,3 +28,7 @@
   translation: Contact
 - id: themefisher
   translation: Avare
+- id: category
+  translation: Category
+- id: home
+  translation: Home
