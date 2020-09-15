@@ -56,12 +56,12 @@ If you are planning for an overnight backpacking trip, plan for the dinner, brea
 {{< cloudimg id="blog/backpacking-basics-4_xns3i4" caption="Meals during backpacking" >}}
 
 * Dinner : Instant Noodles, rice with an instant curry, rottee, bread
-* Breakfast: Bread with butter/jam, cereals, samaposha, tea, or coffee, if you have time to prepare something for the lunch as well.
+* Breakfast: Bread with butter/jam, cereals, samaposha, tea, or coffee. If you have time, prepare something for lunch as well.
 * Lunch: Bread with butter/jam, samaposha, fruits, snacks
 
 ## Get ready for your trip
 
-When you get everything mentioned above arranged, your backpack is ready for your trip. Nevertheless, do yourself is up to take this challenge? Therefore, follow the below steps to get yourself physically, mentally and legally prepared for your first backpacking trip.
+When you get everything mentioned above arranged, your backpack is ready for your trip. Nevertheless, do yourself is up to take this challenge? Follow the below steps to get yourself physically, mentally and legally prepared for your first backpacking trip.
 
 {{< cloudimg id="blog/backpacking-basics-5_dfq6pv" caption="Getting ready for the trip" >}}
 
