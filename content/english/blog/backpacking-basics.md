@@ -29,16 +29,15 @@ Backpacking is a low budget-traveling medium; always plan to keep your initial i
 
 {{< cloudimg id="blog/backpacking-basics-2_xvxhrm" caption="Essential backpacking gear" >}}
 
-Since you have to carry and fit all your gear into your backpack, they needed to be lightweight and compact. That is why it is required to organize your backpacking gear carefully. The followings are the most essential items you will
-need for any backpacking trip:
+Since you have to carry and fit all your gear into your backpack, they needed to be lightweight and compact. That is why it is required to organize your backpacking gear carefully. The followings are the most essential items you will need for any backpacking trip:
 
-* Tent: If you are traveling with friends always plan to share your tent because it makes your weightless and is more economical.
-* Backpack: If you borrow or buy a pack make sure that it fits comfortably. Load it up with assorted items to about 20% of your body weight and take it out on a long test hike. If it’s comfortable on the hips and in the shoulders, then it’s fine for your first backpacking trip.
-* Sleeping bag &amp; pad : The necessity of a sleeping bag and the pad depends on the location you are planning to camp. If you are supposed to encounter freezing night, then a sleeping bag gives a warmer sleep.
+* **Tent**  : If you are traveling with friends always plan to share your tent because it makes your weight low and is more economical.
+* **Backpack** : If you borrow or buy a pack make sure that it fits comfortably. Load it up with assorted items to about 20% of your body weight and take it out on a long test hike. If it’s comfortable on the hips and in the shoulders, then it’s fine for your first backpacking trip.
+* **Sleeping bag & pad :** The necessity of a sleeping bag and the pad depends on the location you are planning to camp. If you are supposed to encounter freezing night, then a sleeping bag gives a warmer sleep.
   Similarly, a sleeping pad will provide a cushion for a comfortable night.
-* Stove: If you can’t find wood at the camping location or the authorities have banned to make a wood fire then it’s crucial to have a stove with you. Borrowing or renting would be the best option.
-* Water Treatment: Taking a water filter is a wise move because even the pristine-looking source of water can hide things you’d rather not drink. For further details check out our ‘Water Treatment article’.
-* Kitchen Supplies: Scrounge enough pots, pans, plates, cups and utensils from your home kitchen to cook and eat your planned meals. A small sponge and biodegradable soap for dishwashing and small towel also comes in handy.
+* **Stove** : If you can’t find wood at the camping location or the authorities have banned to make a wood fire then it’s crucial to have a stove with you. Borrowing or renting would be the best option.
+* **Water Treatment** : Taking a water filter is a wise move because even the pristine-looking source of water can hide things you’d rather not drink. For further details check out our ‘Water Treatment article’.
+* **Kitchen Supplies** : Scrounge enough pots, pans, plates, cups and utensils from your home kitchen to cook and eat your planned meals. A small sponge and biodegradable soap for dishwashing and a  small towel also comes in handy.
 
 ## What clothes for backpacking?
 
