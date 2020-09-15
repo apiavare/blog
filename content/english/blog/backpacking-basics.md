@@ -9,8 +9,6 @@ categories:
   - backpacking
   - hiking
 ---
-Do you follow these tips as a Backpacking Beginner?
-
 Backpacking is the best form of low cost travelling to seek adventure, which blends hiking with back-country camping. It allows you to interact with many local communities, broaden your horizons and enrich your vision. However, as a beginner for backpacking, it is essential to stick into some basic steps to ensure an excellent outdoor experience.
 
 Basic steps to follow for your first backpacking trip,
@@ -31,16 +29,15 @@ Backpacking is a low budget-traveling medium; always plan to keep your initial i
 
 {{< cloudimg id="blog/backpacking-basics-2_xvxhrm" caption="Essential backpacking gear" >}}
 
-Since you have to carry and fit all your gear into your backpack, they needed to be lightweight and compact. That is why it is required to organize your backpacking gear carefully. The followings are the most essential items you will
-need for any backpacking trip:
+Since you have to carry and fit all your gear into your backpack, they needed to be lightweight and compact. That is why it is required to organize your backpacking gear carefully. The followings are the most essential items you will need for any backpacking trip:
 
-* Tent: If you are traveling with friends always plan to share your tent because it makes your weightless and is more economical.
-* Backpack: If you borrow or buy a pack make sure that it fits comfortably. Load it up with assorted items to about 20% of your body weight and take it out on a long test hike. If it’s comfortable on the hips and in the shoulders, then it’s fine for your first backpacking trip.
-* Sleeping bag &amp; pad : The necessity of a sleeping bag and the pad depends on the location you are planning to camp. If you are supposed to encounter freezing night, then a sleeping bag gives a warmer sleep.
+* **Tent**  : If you are traveling with friends always plan to share your tent because it makes your weight low and is more economical.
+* **Backpack** : If you borrow or buy a pack make sure that it fits comfortably. Load it up with assorted items to about 20% of your body weight and take it out on a long test hike. If it’s comfortable on the hips and in the shoulders, then it’s fine for your first backpacking trip.
+* **Sleeping bag & pad :** The necessity of a sleeping bag and the pad depends on the location you are planning to camp. If you are supposed to encounter freezing night, then a sleeping bag gives a warmer sleep.
   Similarly, a sleeping pad will provide a cushion for a comfortable night.
-* Stove: If you can’t find wood at the camping location or the authorities have banned to make a wood fire then it’s crucial to have a stove with you. Borrowing or renting would be the best option.
-* Water Treatment: Taking a water filter is a wise move because even the pristine-looking source of water can hide things you’d rather not drink. For further details check out our ‘Water Treatment article’.
-* Kitchen Supplies: Scrounge enough pots, pans, plates, cups and utensils from your home kitchen to cook and eat your planned meals. A small sponge and biodegradable soap for dishwashing and small towel also comes in handy.
+* **Stove** : If you can’t find wood at the camping location or the authorities have banned to make a wood fire then it’s crucial to have a stove with you. Borrowing or renting would be the best option.
+* **Water Treatment** : Taking a water filter is a wise move because even the pristine-looking source of water can hide things you’d rather not drink. For further details check out our ‘Water Treatment article’.
+* **Kitchen Supplies** : Scrounge enough pots, pans, plates, cups and utensils from your home kitchen to cook and eat your planned meals. A small sponge and biodegradable soap for dishwashing and a  small towel also comes in handy.
 
 ## What clothes for backpacking?
 
@@ -59,12 +56,12 @@ If you are planning for an overnight backpacking trip, plan for the dinner, brea
 {{< cloudimg id="blog/backpacking-basics-4_xns3i4" caption="Meals during backpacking" >}}
 
 * Dinner : Instant Noodles, rice with an instant curry, rottee, bread
-* Breakfast: Bread with butter/jam, cereals, samaposha, tea, or coffee, if you have time to prepare something for the lunch as well.
+* Breakfast: Bread with butter/jam, cereals, samaposha, tea, or coffee. If you have time, prepare something for lunch as well.
 * Lunch: Bread with butter/jam, samaposha, fruits, snacks
 
 ## Get ready for your trip
 
-When you get everything mentioned above arranged, your backpack is ready for your trip. Nevertheless, do yourself is up to take this challenge? Therefore, follow the below steps to get yourself physically, mentally and legally prepared for your first backpacking trip.
+When you get everything mentioned above arranged, your backpack is ready for your trip. Nevertheless, do yourself is up to take this challenge? Follow the below steps to get yourself physically, mentally and legally prepared for your first backpacking trip.
 
 {{< cloudimg id="blog/backpacking-basics-5_dfq6pv" caption="Getting ready for the trip" >}}
 
