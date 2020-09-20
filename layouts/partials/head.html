@@ -2,11 +2,11 @@
 	<meta charset="utf-8">
 	<title>
 		{{ if eq .Kind "term" }}
-			{{ humanize .Title }} ({{ humanize .Data.Singular }})
+		{{ humanize .Title }} ({{ humanize .Data.Singular }})
 		{{ else if .IsHome }}
-			{{ i18n "home" }}
+		{{ i18n "home" }}
 		{{ else }}
-			{{ humanize .Title }}
+		{{ humanize .Title }}
 		{{ end }} | {{ site.Title }}
 	</title>
 
@@ -27,14 +27,33 @@
 	{{"<!-- Main Stylesheet -->" | safeHTML }}
 	{{ $styles := resources.Get "css/style.css" | minify | fingerprint "sha384" }}
 	<link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
-	
+
 	{{"<!-- Custom Styles -->" | safeHTML }}
 	{{ $customSass := resources.Get "scss/styles.scss" | toCSS | minify | fingerprint "sha384" }}
-	<link rel="stylesheet" href="{{ $customSass.Permalink }}" integrity="{{ $customSass.Data.Integrity }}" media="screen">
+	<link rel="stylesheet" href="{{ $customSass.Permalink }}" integrity="{{ $customSass.Data.Integrity }}"
+		media="screen">
 
 	{{ "<!--Favicon-->" | safeHTML }}
 	<link rel="shortcut icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
 	<link rel="icon" href="{{ `images/favicon.png` | absURL }}" type="image/x-icon">
+
+	{{ "<!-- Open Graph / Facebook -->" | safeHTML}}
+	<meta property="og:type" content="website">
+	<meta property="og:url" content="{{ .Permalink }}">
+	<meta property="og:title" content="{{ humanize .Title }} | {{ site.Title }}">
+	<meta property="og:description"
+		content="{{ with .Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
+	<meta property="og:image"
+		content="{{ site.Params.cloudinary_url }}/f_auto,w_1200/{{ .Params.cloudimg}}">
+
+	{{ "<!-- Twitter -->" | safeHTML}}
+	<meta property="twitter:card" content="summary_large_image">
+	<meta property="twitter:url" content="{{ .Permalink }}">
+	<meta property="twitter:title" content="{{ humanize .Title }} | {{ site.Title }}">
+	<meta property="twitter:description"
+		content="{{ with .Description }}{{ . }}{{ else }}{{ with site.Params.description }}{{ . }}{{ end }}{{ end }}">
+	<meta property="twitter:image"
+		content="{{ site.Params.cloudinary_url }}/f_auto,w_1200/{{ .Params.cloudimg}}">
 
 	{{ "<!--Translations-->" | safeHTML }}
 	{{ if .IsTranslated }}
