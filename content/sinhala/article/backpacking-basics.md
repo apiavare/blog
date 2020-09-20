@@ -8,6 +8,9 @@ cloudimg: blog/backpacking-basics-1_pz2651
 categories:
   - hiking
   - backpacking
+references:
+  - label: Expert Advice - REI
+    link: https://www.rei.com/learn/expert-advice/backpacking-beginners.html?series=intro-to-backpacking
 ---
 ## ඔබත් බැක්පැකින් වලට අලුත්ද? මෙම උපදෙස් පිළිපදිනවද?
 

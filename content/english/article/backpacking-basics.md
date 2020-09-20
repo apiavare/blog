@@ -8,6 +8,9 @@ cloudimg: blog/backpacking-basics-1_pz2651
 categories:
   - backpacking
   - hiking
+references:
+  - label: Expert Advice - REI
+    link: https://www.rei.com/learn/expert-advice/backpacking-beginners.html?series=intro-to-backpacking
 ---
 ## Do you follow these tips as a Backpacking Beginner?
 
@@ -73,7 +76,3 @@ When you get everything mentioned above arranged, your backpack is ready for you
 * Always leave a trip plan with a friend or a family member with all the details of where you are going and when you expect to be back. That gives them a jump on alerting help if you ever need it.
 
 Following the above five tips will allow you to enjoy your first backpacking trip with the best camping experience in your life.
-
-### References
-
-https://www.rei.com/learn/expert-advice/backpacking-beginners.html?series=intro-to-backpacking
