@@ -32,3 +32,5 @@
   translation: Category
 - id: home
   translation: Home
+- id: references
+  translation: References

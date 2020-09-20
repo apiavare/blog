@@ -1,0 +1,14 @@
+<h4>{{ i18n "references" }}</h4>
+<ul class="ref-list">
+    {{ range .Params.References }}
+    <li class="ref-list-item">
+        <a href="{{ .link | safeURL}}" rel="nofollow">
+            {{ if .label }}
+                {{ .label }}
+            {{ else }}
+                {{ .link }}
+            {{ end }}
+        </a>
+    </li>
+    {{ end }}
+</ul>
