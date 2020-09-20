@@ -44,7 +44,11 @@
         {{ end }}
         <div class="post-single-content">
           {{ .Content }}
+        {{ if .Params.References}}
+        {{ partial "references.html" . }}
+        {{ end }}
         </div>
+        <hr>
         {{ if site.Params.post_share }}
         {{ partial "post-share.html" . }}
         {{ end }}

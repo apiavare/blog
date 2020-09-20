@@ -6,8 +6,8 @@ publish_mode: editorial_workflow
 media_folder: "static/images/blog" #Actual media directory
 public_folder: "/images/blog" #For the src attribute in media
 
-site_url: https://avare-blog.netlify.app
-logo_url: https://avare-blog.netlify.app/images/favicon.png
+site_url: https://apiavare.blog
+logo_url: https://apiavare.blog/images/favicon.png
 
 collections:
     - name: "articles-si"
@@ -25,6 +25,7 @@ collections:
         - {label: "Intro", name: "intro", widget: "string", required: false}
         - {label: "Meta Description", name: "description", widget: "string", required: false}
         - {label: "Categories", name: "categories", widget: "list"}
+        - {label: "References", name: "references", widget: "list", required: false, fields: [{label: "Label text", name: "label", widget: "string"}, {label: "Link", name: "link", widget: "string"}]}
         - {label: "Body", name: "body", widget: "markdown"}
     - name: "articles-en"
       label: "English Articles"
@@ -41,6 +42,7 @@ collections:
         - {label: "Intro", name: "intro", widget: "string", required: false}
         - {label: "Meta Description", name: "description", widget: "string", required: false}
         - {label: "Categories", name: "categories", widget: "list"}
+        - {label: "References", name: "references", widget: "list", required: false, fields: [{label: "Label text", name: "label", widget: "string"}, {label: "Link", name: "link", widget: "string"}]}
         - {label: "Body", name: "body", widget: "markdown"}
     - name: "authors-si"
       label: "Sinhala Authors"
@@ -49,6 +51,8 @@ collections:
       slug: "{{slug}}"
       fields:
         - {label: "Title", name: "title", widget: "string"}
+        - {label: "Slug", name: "slug", widget: "string"}
+        - {label: "Translation Key", name: "translationKey", widget: "string"}
         - {label: "Email", name: "email", widget: "string"}
         - {label: "Thumbnail", name: "cloudimg", widget: "string", required: false}
         - {label: "Social Links", name: "social", widget: "list", fields: [{label: "Icon", name: "icon", widget: "string"}, {label: "Link", name: "link", widget: "string"}]}
@@ -60,6 +64,8 @@ collections:
       slug: "{{slug}}"
       fields:
         - {label: "Title", name: "title", widget: "string"}
+        - {label: "Slug", name: "slug", widget: "string"}
+        - {label: "Translation Key", name: "translationKey", widget: "string"}
         - {label: "Email", name: "email", widget: "string"}
         - {label: "Thumbnail", name: "cloudimg", widget: "string", required: false}
         - {label: "Social Links", name: "social", widget: "list", fields: [{label: "Icon", name: "icon", widget: "string"}, {label: "Link", name: "link", widget: "string"}]}
