@@ -35,8 +35,11 @@
 					<hr>
 					<ul class="list-inline">
 						{{ range .Params.Social }}
-						<li class="list-inline-item"><a class="simple-icon" href="{{ .link | safeURL}}"><i
-									class="{{ .icon }}"></i></a></li>
+						<li class="list-inline-item">
+							<a class="simple-icon" href="{{ .link | safeURL}}" rel="nofollow">
+								<i class="{{ .icon }}"></i>
+							</a>
+						</li>
 						{{ end }}
 					</ul>
 				</div>
