@@ -8,6 +8,13 @@ cloudimg: blog/how-to-setup-tent-1_uihebd
 categories:
   - hiking
   - backpacking
+references:
+  - label: Expert Advice - REI
+    link: https://www.rei.com/learn/expert-advice/tent-set-up.html
+  - label: WikiHow
+    link: https://www.wikihow.com/Set-Up-a-Tent
+  - label: Overstock
+    link: https://www.overstock.com/guides/how-to-set-up-a-tent
 ---
 The tent is an essential and useful camping gear for backpackers. But some frustrated campers undergo many difficulties when trying to set it up in the darkness after a tiring hike. However, if you’ve set up a tent several times, and it became a familiar routine that can easily be repeated even in the most difficult hiking and camping conditions. This article will help you out to practice and smoothen your tent setting skills to ensure a better camping experience.
 Follow the below steps to set up your tent properly.
@@ -68,8 +75,3 @@ Seek higher, drier ground so you have less moisture in the air to form condensat
 {{< cloudimg id="blog/how-to-setup-tent-7_bwurhm" caption="Fixing tent to the ground" >}}
 
 * Step 8 : Set the rainfly : The rain fly adds a cover to the tent and you should install it to keep the rain away. Some rain fly comes with separate poles for installation. Set them up according to their instructions.
-
-Reference
-https://www.rei.com/learn/expert-advice/tent-set-up.html
-https://www.wikihow.com/Set-Up-a-Tent
-https://www.overstock.com/guides/how-to-set-up-a-tent
