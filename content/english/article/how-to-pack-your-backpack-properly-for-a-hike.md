@@ -5,6 +5,8 @@ translationKey: how-to-pack-your-backpack-properly-for-a-hike
 date: 2020-09-01T07:19:29.850Z
 author: Team Avare
 cloudimg: blog/how-to-pack-backpack-1_kleuzm
+description: You might have gone many backpacking trips around so far, but did
+  you ever know there are standards to pack your backpack?
 categories:
   - hiking
   - backpacking
