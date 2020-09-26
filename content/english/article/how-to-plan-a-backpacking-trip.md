@@ -5,6 +5,10 @@ translationKey: how-to-plan-a-backpacking-trip
 date: 2020-09-01T06:49:35.628Z
 author: Team Avare
 cloudimg: blog/how-to-plan-a-trip-1_uv5igt
+description: Backpacking trips can be serious fun with a tiny effort. A
+  well-planned backpacking trip will allow you to camp in beautiful places to
+  enjoy a richer, more immersive outdoor experience.In this article we’ll talk
+  about the deeper details of how to plan a trip effectively.
 categories:
   - backpacking
   - hiking
@@ -13,10 +17,10 @@ Backpacking trips can be serious fun with a tiny effort. A well-planned backpack
 
 ## Decide your trip parameters
 
-First of all, you need to narrow down your trip options, following will help you to decide parameters in order to choose your specific destination.
+First of all, you need to narrow down your trip options, the following will help you to decide parameters in order to choose your specific destination.
 
-* Distance and Time: Most travelers have constraints with limited time. It is a must to know about the distance that need to tackle each day to get to the destination you choose. Most people will plan this depending on what shape they are in and how much elevation gain there is.
-* Region and Aesthetics: If you have constraints with time it’s better to choose a place close to home so you can spend more time on the trail than on the road. IF you are looking for a specific environment or location, which may be worth your travel time. What are you interested in? Do you picture yourself climbing slopes and conquering mountain summits? Or are you drawn to the woods? Or perhaps you like being near water.? These details will inform you the logistics of your trip
+* Distance and Time: Most travelers have constraints with limited time. It is a must to know about the distance that needs to tackle each day to get to the destination you choose. Most people will plan this depending on what shape they are in and how much elevation gain there is.
+* Region and Aesthetics: If you have constraints with time it’s better to choose a place close to home so you can spend more time on the trail than on the road. If you are looking for a specific environment or location, which may be worth your travel time. What are you interested in? Do you picture yourself climbing slopes and conquering mountain summits? Or are you drawn to the woods? Or perhaps you like being near water? These details will inform you of the logistics of your trip
 * Group Size: If you are travelling solo, you have more freedom on your hike. But if you are in a group, you’ll need to accommodate the phase according to the slowest member of the group you can share the packs with your members. It’s better to keep in mind that some trails can accommodate up to a limited amount of people.
 * Preparation Time: Prepare your mind and body fit for the trip and make sure that you’re more likely to end each trail day happily fatigued, rather than miserably sore and exhausted.
 * Time of the year and weather: Some trails won’t be accessible in the rainy season (April to October is the best season for Knuckles) and the drought seasons (Yala is annually closed from September to October 15th)
