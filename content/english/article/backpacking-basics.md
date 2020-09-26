@@ -17,7 +17,7 @@ references:
   - label: Expert Advice - REI
     link: https://www.rei.com/learn/expert-advice/backpacking-beginners.html?series=intro-to-backpacking
 ---
-# Do you follow these tips as a Backpacking Beginner?
+## Do you follow these tips as a Backpacking Beginner?
 
 Backpacking is the best form of low cost travelling to seek adventure, which blends hiking with back-country camping. It allows you to interact with many local communities, broaden your horizons and enrich your vision. However, as a beginner for backpacking, it is essential to stick into some basic steps to ensure an excellent outdoor experience.
 
