@@ -5,6 +5,11 @@ translationKey: backpacking-basics
 date: 2020-08-29T14:19:52.381Z
 author: Team Avare
 cloudimg: blog/backpacking-basics-1_pz2651
+intro: "Know the basics to be a professional backpacker. "
+description: Backpacking is the best form of low cost travelling to seek
+  adventure, which blends hiking with back-country camping.However, as a
+  beginner for backpacking, it is essential to stick into some basic steps to
+  ensure an excellent outdoor experience.
 categories:
   - backpacking
   - hiking
