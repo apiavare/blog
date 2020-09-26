@@ -20,11 +20,11 @@ You might have gone many backpacking trips around so far, but did you ever know 
 
 ## Main storage compartments of a backpack
 
-{{< cloudimg id="blog/how-to-pack-backpack-2_ky0fxv" caption="Main parts of a backpack" >}}
+{{< cloudimg id="blog/how-to-pack-backpack-2_ky0fxv_rvzacb" caption="Main parts of a backpack" >}}
 
 ## Tips for packing your backpack
 
-When loading your gear, remember to maintain comfort and convenience. Your gear must be packed comfortably so that it won’t interfere with your center of gravity as well as it should be packed conveniently so you can get the gear you need without everything out.
+When loading your gear, remember to maintain comfort and convenience. Your gear must be packed comfortably so that it won’t interfere with your center of gravity as well as it should be packed conveniently so you can get the gear you need without letting everything out.
 
 {{< cloudimg id="blog/how-to-pack-backpack-3_uet4vg" caption="Packing the backpack" >}}
 
@@ -37,7 +37,7 @@ For bulky gear and items not needed until camp.
 * Long-wear that you need for sleep.
 * Down booties
 
-These squishy gears create an internal shock-absorption system for your back and you pack which makes comfortable when carrying.
+These squishy gears create an internal shock-absorption system for your back and your pack which makes comfortable when carrying.
 
 ### Core Zone
 
@@ -46,7 +46,7 @@ For heavy and dense gear which you won’t need to access during your hike.
 * Entrees ( Main meals not snacks)
 * Cooking kit
 * Stove ( If you carry)
-* Water reservoir (unless you prefer bottles)
+* Water reservoir (Unless you prefer bottles)
 * Liquid fuel ( Make sure lid is tight and separated from food)
 * Use some soft items like extra clothing, tent body, and rain-fly to fill in the gaps between bulky items.
 
