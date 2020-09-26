@@ -62,6 +62,6 @@ Now that you know the details of your destination, you’re ready to ensure you�
 
 At last, before you leave for your trip, go through the following.
 
-* Pack your backpack: A well-loaded pack will feel balanced when resting on your hips and won’t shift or sway as you hike with it. Use packing by dividing the space into zones.
+* Pack your backpack: A well-loaded pack will feel balanced when resting on your hips and won’t shift or sway as you hike with it. Use packing by dividing the space into zones. Check out the article ['How to pack your  backpack?'](https://apiavare.blog/article/how-to-pack-your-backpack-properly-for-a-hike/)
 * Check the weather: Either plan accordingly based on what you learn or consider postponing or canceling the trip if you need to.
 * Share your itinerary: Always leave your detailed itinerary with someone you trust. Write down who to contact and when, if you haven’t returned at your expected time.
