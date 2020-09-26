@@ -21,7 +21,7 @@ First of all, you need to narrow down your trip options, the following will help
 
 * Distance and Time: Most travelers have constraints with limited time. It is a must to know about the distance that needs to tackle each day to get to the destination you choose. Most people will plan this depending on what shape they are in and how much elevation gain there is.
 * Region and Aesthetics: If you have constraints with time it’s better to choose a place close to home so you can spend more time on the trail than on the road. If you are looking for a specific environment or location, which may be worth your travel time. What are you interested in? Do you picture yourself climbing slopes and conquering mountain summits? Or are you drawn to the woods? Or perhaps you like being near water? These details will inform you of the logistics of your trip
-* Group Size: If you are travelling solo, you have more freedom on your hike. But if you are in a group, you’ll need to accommodate the phase according to the slowest member of the group you can share the packs with your members. It’s better to keep in mind that some trails can accommodate up to a limited amount of people.
+* Group Size: If you are travelling solo, you have more freedom on your hike. But if you are in a group, you’ll need to accommodate the phase according to the slowest member of the group. You can share the packs with your members. It’s better to keep in mind that some trails can accommodate up to a limited amount of people.
 * Preparation Time: Prepare your mind and body fit for the trip and make sure that you’re more likely to end each trail day happily fatigued, rather than miserably sore and exhausted.
 * Time of the year and weather: Some trails won’t be accessible in the rainy season (April to October is the best season for Knuckles) and the drought seasons (Yala is annually closed from September to October 15th)
 * Shuttles: If you are hiking point to point trail you need to consider the time schedule of local shuttle services, how to get back to your private vehicle, and so on.
@@ -34,7 +34,7 @@ After narrowing down your trip options you’ll be able to find trails that will
 
 * Guidebooks and websites: These are the best resources because they have almost all the stats you need. Websites have more updated stats and reports which might give you a great sense of what the trip will really be like at the time you plan to hike.
 * Word of mouth: Suggestions from the experienced individuals who already know about the trail or talking to the locals/guides who live around the area.
-* Topographic Maps: If you know the area and know how to use a topo map, you’ll be able to obtain the needed details. You could get maps from the Map Shop in Survey Department of Sri Lanka
+* Topographic Maps: If you know the area and know how to use a topo map, you’ll be able to obtain the needed details. You could get maps from the Map Shop in the Survey Department of Sri Lanka
 
 ## Check on the Route Details
 
