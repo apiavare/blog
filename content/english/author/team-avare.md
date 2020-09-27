@@ -1,5 +1,7 @@
 ---
-title: Team Avare
+title: Team ApiAvare
+slug: team_apiavare
+translationKey: team_apiavare
 email: avare.dpt@gmail.com
 cloudimg: authors/team-avare_il8zgw
 social:
@@ -10,5 +12,4 @@ social:
   - icon: ti-github
     link: "#"
 ---
-
-Sample description goes here.
+We are a team of passionate and professional travellers.
