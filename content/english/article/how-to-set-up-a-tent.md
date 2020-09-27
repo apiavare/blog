@@ -1,5 +1,5 @@
 ---
-title: How to set up a tent
+title: How to set up a tent?
 slug: how-to-setup-a-tent
 translationKey: how-to-setup-a-tent
 date: 2020-09-01T07:39:31.041Z
