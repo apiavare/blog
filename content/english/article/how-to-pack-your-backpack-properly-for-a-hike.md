@@ -20,7 +20,7 @@ You might have gone many backpacking trips around so far, but did you ever know 
 
 ## Main storage compartments of a backpack
 
-{{< cloudimg id="blog/how-to-pack-backpack-2_ky0fxv_rvzacb" caption="Main parts of a backpack" >}}
+{{< cloudimg id="blog/how-to-pack-backpack-2_om7fpf" caption="Main parts of a backpack" >}}
 
 ## Tips for packing your backpack
 
