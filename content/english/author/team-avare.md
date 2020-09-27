@@ -1,5 +1,5 @@
 ---
-title: Team ApiAvare
+title: Team Avare
 slug: team_apiavare
 translationKey: team_apiavare
 email: avare.dpt@gmail.com
