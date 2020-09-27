@@ -1,5 +1,5 @@
 ---
-title: How to plan a backpacking trip
+title: How to plan a backpacking trip?
 slug: how-to-plan-a-backpacking-trip
 translationKey: how-to-plan-a-backpacking-trip
 date: 2020-09-01T06:49:35.628Z
