@@ -15,7 +15,7 @@ categories:
 
 ## ගමන්මල්ලක ප්‍රධාන ඇසුරුම් කොටස් (Storage Compartments)
 
-{{< cloudimg id="how-to-pack-backpack-2_ky0fxv_rvzacb" caption="Main parts of a backpack" >}}
+{{< cloudimg id="blog/how-to-pack-backpack-2_ky0fxv_rvzacb" caption="Main parts of a backpack" >}}
 
 ## ගමන්මල්ල අසුරාගැනීමේදී සැලකිලිමත් වියයුතු කරුණු
 
