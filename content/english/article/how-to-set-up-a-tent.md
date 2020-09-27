@@ -30,7 +30,7 @@ Set up your tent at home reading the instructions carefully, before hitting the 
 
 ## 2. Selecting a campsite
 
-{{< cloudimg id="blog/how-to-setup-tent-2_bidbsp" caption="Selecting a campsite" >}}
+{{< cloudimg id="blog/how-to-setup-tent-2_bidbsp_mxhs9m" caption="Selecting a campsite" >}}
 
 You could follow this set of practices when selecting a better campsite to set up your tent.
 
