@@ -1,10 +1,15 @@
 ---
-title: How to set up a tent
+title: How to set up a tent?
 slug: how-to-setup-a-tent
 translationKey: how-to-setup-a-tent
 date: 2020-09-01T07:39:31.041Z
 author: Team Avare
 cloudimg: blog/how-to-setup-tent-1_uihebd
+description: The tent is an essential and useful camping gear for backpackers.
+  But some frustrated campers undergo many difficulties when trying to set it up
+  in the darkness after a tiring hike. This article will help you out to
+  practice and smoothen your tent setting skills to ensure a better camping
+  experience.
 categories:
   - hiking
   - backpacking
@@ -19,14 +24,13 @@ references:
 The tent is an essential and useful camping gear for backpackers. But some frustrated campers undergo many difficulties when trying to set it up in the darkness after a tiring hike. However, if you’ve set up a tent several times, and it became a familiar routine that can easily be repeated even in the most difficult hiking and camping conditions. This article will help you out to practice and smoothen your tent setting skills to ensure a better camping experience.
 Follow the below steps to set up your tent properly.
 
-## Pre-trip preparation
+## 1. Pre-trip preparation
 
-Set up your tent at home reading the instructions carefully, before hitting the trail. It prevents confusion and damage to tent parts. Even though if a part is missing, you’ve built it in the time to get it before your trip. And don’t forget
-to pack along a copy of the instructions.
+Set up your tent at home reading the instructions carefully, before hitting the trail. It prevents confusion and damage to tent parts. Even though if a part is missing, you’ve built it in the time to get it before your trip. And don’t forget to pack along a copy of the instructions.
 
-## Selecting a campsite
+## 2. Selecting a campsite
 
-{{< cloudimg id="blog/how-to-setup-tent-2_bidbsp" caption="Selecting a campsite" >}}
+{{< cloudimg id="blog/how-to-setup-tent-2_bidbsp_mxhs9m" caption="Selecting a campsite" >}}
 
 You could follow this set of practices when selecting a better campsite to set up your tent.
 
@@ -39,7 +43,7 @@ Tips : Even though you are using a quality tent that can handle both wind and ra
 
 ### To prevent wind-related issues
 
-* Look for natural windbreaks : a stand of trees or a hill between you and the prevailing breeze.
+* Look for natural windbreaks; a stand of trees or a hill between you and the prevailing breeze.
 * Avoid camping near damaged trees or limbs that can be blown down by a severe gust.
 * Though many campers will orient a tent with the smaller side facing the wind for reduced resistance, it’s more important to place the side that has the strongest pole structure facing the wind.
 * If you’re camping in a hot climate, orient a door toward the wind for cooling.
@@ -54,7 +58,8 @@ Seek higher, drier ground so you have less moisture in the air to form condensat
 * Avoid camping in low areas between high areas, because cool, damp air settles here; rain can also channel through and pool when a storm blows in.
 * To prevent rain from blowing in, orient doors away from the wind.
 
-## Setting up the tent
+## 3. Setting up the tent
+
 * Step 1 : Clear the debris from the tent site: Remove the things that can damage the tent floor and poke you in the backside.
 
 {{< cloudimg id="blog/how-to-setup-tent-4_hlqum7" caption="Clearing camp floor" >}}
