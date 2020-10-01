@@ -3,7 +3,8 @@ title: කඳු නඟිද්දි ඔබේ බැක්පැක් එක
 slug: how-to-pack-your-backpack-properly-for-a-hike
 translationKey: how-to-pack-your-backpack-properly-for-a-hike
 date: 2020-09-01T07:27:30.333Z
-author: Team Avare
+authors:
+  - Team Api Avare
 cloudimg: blog/how-to-pack-backpack-1_kleuzm
 description: ඔබ දැනටමත් බැක්පැකින් සවාරි රැසකට සහභාගීව තිබෙන යම් පලපුරුදු
   බැක්පැකර් කෙනෙක් වෙන්න පුළුවන්. නමුත් ඔබේ ගමන්මල්ල (බැක්පැක් එක) අසුරාගන්න

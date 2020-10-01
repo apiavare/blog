@@ -9,13 +9,21 @@
         <h1>{{ .Title }}</h1>
         <ul class="list-inline">
           <li class="list-inline-item">
-            <a rel="author" href="{{ `author/` | relLangURL }}{{ .Params.Author | urlize }}/">{{ .Params.Author }}</a>
+            <ul class="authors-list">
+              {{ range .Params.Authors }}
+              <li class="author-item">
+                <a rel="author"
+                  href="{{ `author/` | relLangURL }}{{ . | urlize }}/">{{ . }}</a>
+              </li>
+              {{ end }}
+            </ul>
           </li>
           <li class="list-inline-item">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</li>
         </ul>
         <ul id="categories" class="categories">
           {{ range (.GetTerms "categories") }}
-          <li class="category-item" title="Category: {{ .LinkTitle }}"><a rel="tag" href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          <li class="category-item" title="Category: {{ .LinkTitle }}"><a rel="tag"
+              href="{{ .Permalink }}">{{ .LinkTitle }}</a>
           </li>
           {{ end }}
         </ul>
@@ -44,9 +52,9 @@
         {{ end }}
         <div class="post-single-content">
           {{ .Content }}
-        {{ if .Params.References}}
-        {{ partial "references.html" . }}
-        {{ end }}
+          {{ if .Params.References}}
+          {{ partial "references.html" . }}
+          {{ end }}
         </div>
         <hr>
         {{ if site.Params.post_share }}

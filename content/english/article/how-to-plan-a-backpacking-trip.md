@@ -3,7 +3,8 @@ title: How to plan a backpacking trip?
 slug: how-to-plan-a-backpacking-trip
 translationKey: how-to-plan-a-backpacking-trip
 date: 2020-09-01T06:49:35.628Z
-author: Team Avare
+authors:
+  - Team Api Avare
 cloudimg: blog/how-to-plan-a-trip-1_uv5igt
 description: Backpacking trips can be serious fun with a tiny effort. A
   well-planned backpacking trip will allow you to camp in beautiful places to

@@ -3,7 +3,9 @@ title: How to Pack Your Backpack Properly for a Hike?
 slug: how-to-pack-your-backpack-properly-for-a-hike
 translationKey: how-to-pack-your-backpack-properly-for-a-hike
 date: 2020-09-01T07:19:29.850Z
-author: Team Avare
+authors:
+  - Team Api Avare
+  - Sanoj Wijayasekara
 cloudimg: blog/how-to-pack-backpack-1_kleuzm
 description: You might have gone many backpacking trips around so far, but did
   you ever know there are standards to pack your backpack?
