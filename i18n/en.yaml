@@ -34,3 +34,5 @@
   translation: Home
 - id: references
   translation: References
+- id: switchLang
+  translation: Switch language

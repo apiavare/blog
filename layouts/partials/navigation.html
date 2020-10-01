@@ -57,7 +57,7 @@
 				<!-- Language List -->
 				{{- if site.IsMultiLingual }}
 				<div class="lang-wrapper"
-					title="{{ if eq .Page.Lang `en` }}Switch language{{ else }}භාෂාව වෙනස්කරන්න{{end}}">
+					title="{{ i18n `switchLang` }}"> 
 					<select id="select-language" class="lang-select" onchange="location = this.value;">
 						{{ $siteLanguages := site.Languages}}
 						{{ $pageLang := .Page.Lang}}
