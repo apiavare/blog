@@ -5,6 +5,9 @@ translationKey: backpacking-basics
 date: 2020-08-29T16:20:39.547Z
 authors:
   - Team Api Avare
+authorsrel:
+  - authoritem: sanoj-wijayasekara
+  - authoritem: team-api-avare
 cloudimg: blog/backpacking-basics-1_pz2651
 description: බැක්පැකින් කියන්නේ අඩු වියදමින් සංචාරය කරන්නත් ජීවිතයට ත්‍රාසජනක
   අත්දැකීම් එකතු කරගන්නත් තියන හොඳම ක්‍රමයයි.බැක්පැකින් වලට ආධුනිකයෙක් වශයෙන්
