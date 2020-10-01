@@ -68,7 +68,7 @@ You can even stash your tent to the top zone if you need fast access for it.
 
 Include lid pockets, front pockets, side pockets and hip belt pockets. The availability of these pockets may depend on the brand of your pack.
 
-{{< cloudimg id="blog/how-to-pack-backpack-4_wsqyef" caption="Accessory pockets" >}}
+{{< cloudimg id="blog/how-to-pack-backpack-4_wsqyef" caption="Accessory pockets" class="w500" >}}
 
 Best for the essentials you’ll need urgently or often on the trail.
 
