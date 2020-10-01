@@ -1,3 +1,5 @@
+- id: home
+  translation: Home
 - id: blogTitle
   translation: Latest Articles
 - id: readMore
@@ -36,3 +38,5 @@
   translation: References
 - id: switchLang
   translation: Switch language
+- id: articles
+  translation: Articles

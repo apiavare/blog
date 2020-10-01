@@ -1,3 +1,5 @@
+- id: home
+  translation: නිවස
 - id: blogTitle
   translation: අවාරේ ලිපි
 - id: readMore
@@ -36,3 +38,5 @@
   translation: ආශ්‍රිත සබැඳි
 - id: switchLang
   translation: භාෂාව වෙනස්කරන්න
+- id: articles
+  translation: ලිපි

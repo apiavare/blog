@@ -46,10 +46,10 @@ link = "plugins/google-map/map.js"
 # URL = "about"
 # weight = 1
 
-[[menu.main]]
-name = "blog"
-URL = "blog"
-weight = 1
+# [[menu.main]]
+# name = "blog"
+# URL = "blog"
+# weight = 1
 
 # [[menu.main]]
 # name = "services"
@@ -59,7 +59,7 @@ weight = 1
 [[menu.main]]
 name = "contact"
 URL = "contact"
-weight = 3
+weight = 1
 
 # [[menu.main]]
 # name = "portfolio"

@@ -1,0 +1,37 @@
+
+li.dropdown-nav-item {
+    display: block;
+    position: relative;
+
+    &:focus-within a {
+        outline: none;
+    }
+}
+
+ul.dropdown {
+    background-color: var(--avare-dark-1);
+    border-radius: var(--border-radius);
+    visibility: hidden;
+    opacity: 0;
+    min-width: 5rem;
+    width: max-content;
+    position: absolute;
+    transition: all 0.5s ease;
+    left: 0;
+    display: none;
+    padding: 0;
+}
+
+li.dropdown-nav-item:hover > ul,
+li.dropdown-nav-item:focus-within > ul,
+li.dropdown-nav-item ul.dropdown:hover,
+li.dropdown-nav-item ul.dropdown:focus {
+    visibility: visible;
+    opacity: 1;
+    display: block;
+}
+
+ul.dropdown li.dropdown-list-item {
+    list-style: none;
+    padding: 8px 25px;
+}
