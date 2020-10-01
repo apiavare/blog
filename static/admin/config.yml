@@ -31,18 +31,6 @@ collections:
         - label: "Authors"
           name: "authors"
           widget: "list"
-        - label: "Authors Test - do not use"
-          name: "authorsrel"
-          widget: "list"
-          required: false
-          fields:
-            - label: "Author"
-              name: "authoritem"
-              widget: "relation"
-              collection: "authors-si"
-              search_fields: ["title", "slug"]
-              value_field: "slug"
-              display_fields: ["title"]
         - {label: "Featured Image", name: "cloudimg", widget: "string", required: false}
         - {label: "Intro", name: "intro", widget: "string", required: false}
         - {label: "Meta Description", name: "description", widget: "string", required: false}
