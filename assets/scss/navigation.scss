@@ -22,16 +22,18 @@ ul.dropdown {
     padding: 0;
 }
 
-li.dropdown-nav-item:hover > ul,
-li.dropdown-nav-item:focus-within > ul,
-li.dropdown-nav-item ul.dropdown:hover,
-li.dropdown-nav-item ul.dropdown:focus {
-    visibility: visible;
-    opacity: 1;
-    display: block;
-}
-
-ul.dropdown li.dropdown-list-item {
-    list-style: none;
-    padding: 8px 25px;
+@media screen and (min-width: 992px) {
+    li.dropdown-nav-item:hover > ul,
+    li.dropdown-nav-item:focus-within > ul,
+    li.dropdown-nav-item ul.dropdown:hover,
+    li.dropdown-nav-item ul.dropdown:focus {
+        visibility: visible;
+        opacity: 1;
+        display: block;
+    }
+    
+    ul.dropdown li.dropdown-list-item {
+        list-style: none;
+        padding: 8px 25px;
+    }
 }
