@@ -1,0 +1,61 @@
+{{ define "main" }}
+
+{{ partial "navigation.html" . }}
+
+<section class="section">
+  <div class="container">
+    <article class="row">
+      <div class="col-lg-12 text-center">
+        <h1>{{ .Title }}</h1>
+        <!-- <ul class="list-inline">
+          <li class="list-inline-item">
+            <ul class="authors-list">
+              {{ range .Params.Authors }}
+              <li class="author-item">
+                <a rel="author"
+                  href="{{ `author/` | relLangURL }}{{ . | urlize }}/">{{ . }}</a>
+              </li>
+              {{ end }}
+            </ul>
+          </li>
+          <li class="list-inline-item">{{ dateFormat "Monday, Jan 2, 2006" .Date }}</li>
+        </ul> -->
+        <ul id="categories" class="categories">
+          {{ range (.GetTerms "categories") }}
+          <li class="category-item" title="Category: {{ .LinkTitle }}"><a rel="tag"
+              href="{{ .Permalink }}">{{ .LinkTitle }}</a>
+          </li>
+          {{ end }}
+        </ul>
+        <div class="mb-50"></div>
+        <!-- <img class="img-fluid mb-50 lozad" data-src="{{ .Params.Image | absURL }}" alt="blog-image"> -->
+      </div>
+      {{ if .Params.cloudimg }}
+      <div class="col-lg-12 featured-image">
+        <figure class="mb-50">
+          {{ $baseURL := site.Params.cloudinary_url }}
+          <img class="img-fluid lozad" loading="lazy" sizes="100vw" srcset="{{$baseURL}}/f_auto,q_90,w_256/{{ .Params.cloudimg }} 256w,
+                      {{$baseURL}}/f_auto,q_90,w_512/{{ .Params.cloudimg }} 512w,
+                      {{$baseURL}}/f_auto,q_90,w_768/{{ .Params.cloudimg }} 768w,
+                      {{$baseURL}}/f_auto,q_90,w_1024/{{ .Params.cloudimg }} 1024w,
+                      {{$baseURL}}/f_auto,q_90,w_1280/{{ .Params.cloudimg }} 1280w"
+            src="{{$baseURL}}/f_auto,q_90,w_512/{{ .Params.cloudimg }}" alt="blog-image" />
+        </figure>
+      </div>
+      {{ end }}
+
+      <div class="col-lg-12">
+        {{ if .Params.intro }}
+        <div class="intro-content">
+          {{ .Params.intro }}
+        </div>
+        {{ end }}
+        <div class="post-single-content">
+          {{ .Content }}
+        </div>
+      </div>
+    </article>
+  </div>
+</section>
+
+{{ end }}
