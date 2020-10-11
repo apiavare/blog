@@ -92,7 +92,7 @@ categories:
 
 ### මෙවලම් රඳවන (Tool loops and lash-on points)
 
-විශාල හෝ දිගින් වැඩිු උපකරණ සඳහා
+විශාල හෝ දිගින් වැඩි උපකරණ සඳහා
 
 * ට්‍රේකින් පොලු (Trekking poles)
 * කූඩාරම් පොලු (Tent poles)
