@@ -42,7 +42,7 @@
 							href="{{ site.BaseURL | relLangURL }}#blog">{{ i18n "articles" }}</a>
 						<ul class="dropdown" aria-label="submenu">
 							{{ range $key, $value := .Site.Taxonomies.categories }}
-							<a href="{{ site.BaseURL | relLangURL }}/categories/{{ $key | urlize  }}">
+							<a href="{{ site.BaseURL | relLangURL }}categories/{{ $key | urlize  }}">
 								<li class="dropdown-list-item">
 									{{ $key | humanize }}
 									({{ len $value }})
