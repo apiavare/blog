@@ -63,15 +63,6 @@ Following is a sample of low weight food to bring on a 3-day hike.
 | Dinner    | Rice, Instant   Curry                                  | Boiled   Vegitables, Cheddar cheese             | Instant Noodles            |
 | Snacks    | Chocolate   covered cashew or almonds                  | Dehydrated   fruits, Peanuts/Nuts               | Potato chips,   Candy bars |
 
-
-
-| <br>Meal      | <br>Day 1                                                  | <br>Day 2                                           | <br>Day 3                      |
-| ------------- | ---------------------------------------------------------- | --------------------------------------------------- | ------------------------------ |
-| <br>Breakfast | <br>Breakfast at   trailhead                               | <br>Cereals, instant   coffee                       | <br>Rotti, Tea,   Samaposha    |
-| <br>Lunch     | <br>Bread with Jam,   Peanut butter, Nutella, Fresh fruits | <br>Leftovers   cereals from breakfast, Date Fruit, | <br>Crackers with   cheese     |
-| <br>Dinner    | <br>Rice, Instant   Curry                                  | <br>Boiled   Vegitables, Cheddar cheese             | <br>Instant Noodles            |
-| <br>Snacks    | <br>Chocolate   covered cashew or almonds                  | <br>Dehydrated   fruits, Peanuts/Nuts               | <br>Potato chips,   Candy bars |
-
 As you plan your meal, also consider:
 
 * That you have access to water
