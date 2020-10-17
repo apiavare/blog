@@ -47,7 +47,7 @@ Though you can take many types of food for backpacking, it’s better to stick w
 * Stay hydrated with flavored beverages – Consider taking tea, chai, coffee instant soup with you
 * Dehydrate your own meal – Dehydrating your meal takes more time and preparation, but it can save you money as well as weight and volume in your pack. We’ll teach you how to dehydrate your meal from another article.
 
-  {{< cloudimg id="blog/a5/p2" caption="Dehydrated Fruits" >}}
+{{< cloudimg id="blog/a5/p2" caption="Dehydrated Fruits" >}}
 * Consider instant food – There are several ready to eat meals in the market for hikers. Add hot water and wait for the food to rehydrate. They are relatively pricey, but you can find a lot of decent options to suit your taste, even gluten-free and vegan backpacking food.
 
 3. How to plan food for backpacking?
