@@ -19,11 +19,11 @@ references:
   - link: https://www.dummies.com/sports/camping/purifying-the-water-while-camping/
     label: sports - dummies.com
   - link: https://skyaboveus.com/climbing-hiking/How-to-Purify-Water-on-a-Camping-or-Backpacking-Trip-Great-for-an-Emergency-too
-    label: skyaboveus
+    label: How to Purify Water - skyaboveus
   - link: https://www.rei.com/learn/expert-advice/water-treatment-howto.html
     label: Expert Advice - rei.com
   - link: http://www.dailymirror.lk/medicine/Taking-a-closer-look-at-waterborne-diseases/308-140607
-    label: dailymirror.lk
+    label: medicine - dailymirror.lk
 ---
 You might be a traveler who’s hiking in the backcountry and wondering how could it possibly harmful to drink that pristine-looking water over there. Remember, even though how perfect that mountain stream looks, we can’t assure it is harboring a gut-seeking microbe or not. 
 
