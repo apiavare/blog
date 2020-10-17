@@ -86,7 +86,7 @@ Follow the below tips to get safe drinkable water at your campsite.
 {{< cloudimg id="blog/water_treatments/water_treatment5_caexy0" caption="Boiling Water " >}}
 * **Water Filters** are used for water treatment by most international travelers. Portable hand-pump or gravity-drip filters with different pore sizes are available commercially. Filters with pore sizes between 0.1 and 0.4 microns can remove bacteria but not the viruses. Reverse osmosis filters remove bacteria, viruses and even salt from water.
 
-  {{< cloudimg id="blog/water_treatments/water_treatment6_bd9rkw" caption="Water Filter" >}}
+{{< cloudimg id="blog/water_treatments/water_treatment6_bd9rkw" caption="Water Filter" >}}
 * **Chemical water treatment**, tablets or packets to disinfect water are too favorite among lightweight backpackers. These usually combine chemical disinfectants (such as chlorine or iodine) with a substance that makes the water clear and improves its taste. You need to follow the instructions on the package closely when using it.
 
 {{< cloudimg id="blog/water_treatments/water_treatment7_mpwxhw" caption="Chemical water treatment kit   " >}}
