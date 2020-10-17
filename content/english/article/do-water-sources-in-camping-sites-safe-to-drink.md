@@ -31,26 +31,26 @@ You might be a traveler who’s hiking in the backcountry and wondering how coul
 
 These are the most common waterborne pathogens found in water sources,
 
-#### **1. Bacteria:** 
+#### **Bacteria:**
 
 * A single-celled organism, which infects humans through contaminated water. E-coli and salmonella are some of the most common bacteria.        
 * Cause intestinal (enteric) infections such as Typhoid. Symptoms would be fever, headache, abdominal pain and even can cause diarrhea.
 
 {{< cloudimg id="blog/water_treatments/water_treatment2_stoncl" caption="E-coli bacteria " >}}
 
-#### **2. Viruses:**
+#### **Viruses:**
 
 * Waterborne viruses are generally not an issue for backcountry travel in Sri Lanka. But can be found in coastal areas especially in Ampara district.
 * Cause infections such as Hepatitis A and B. Symptoms be yellow discoloration of eyes, fever, abdominal pain and weakness.
 
-#### **3. Protozoa:**
+#### **Protozoa:**
 
 * Most common waterborne protozoa types include Cryptosporidium, Giardia, and Entameba histolytica. 
 * Cause diarrhea, fatigue, loss of appetite, amebic dysentery.
 
 {{< cloudimg id="blog/water_treatments/water_treatment3_vwk7gz" caption="Giardia" >}}
 
-#### **4. Parasitic worms:**
+#### **Parasitic worms:**
 
 * Not commonly transmitted through drinking water, but it is a potential means of transmission for some.
 
