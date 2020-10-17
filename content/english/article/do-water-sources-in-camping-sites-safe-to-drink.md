@@ -5,6 +5,9 @@ translationKey: Water_treatment_techniques_for_backpackers
 date: 2020-10-11T14:33:59.729Z
 authors:
   - Team Api Avare
+description: Even though how perfect that mountain stream looks, we can’t assure
+  it is harboring a gut-seeking microbe or not. Therefore, follow the below tips
+  to get safe drinkable water at your campsite.
 categories:
   - hiking
   - backpacking
@@ -13,13 +16,13 @@ references:
   - link: https://www.researchgate.net/publication/314239558_Water-Borne_Diseases_and_the_Their_Challenges_in_the_Coastal_of_Ampara_District_in_Sri_Lanka#:~:text=The%20viruses%2C%20bacteria%2C%20parasites%2C,identified%20diseases%20in%20these%20areas.
     label: Research_gate
   - link: https://www.dummies.com/sports/camping/purifying-the-water-while-camping/
-    label: purifying-the-water-while-camping
+    label: dummies.com
   - link: https://skyaboveus.com/climbing-hiking/How-to-Purify-Water-on-a-Camping-or-Backpacking-Trip-Great-for-an-Emergency-too
-    label: How-to-Purify-Water-on-a-Camping-or-Backpacking-Trip-Great-for-an-Emergency-too
+    label: skyaboveus.com
   - link: https://www.rei.com/learn/expert-advice/water-treatment-howto.html
-    label: water-treatment-howto.html
+    label: rei.com
   - link: http://www.dailymirror.lk/medicine/Taking-a-closer-look-at-waterborne-diseases/308-140607
-    label: Taking-a-closer-look-at-waterborne-diseases
+    label: dailymirror.lk
 ---
 You might be a traveler who’s hiking in the backcountry and wondering how could it possibly harmful to drink that pristine-looking water over there. Remember, even though how perfect that mountain stream looks, we can’t assure it is harboring a gut-seeking microbe or not. 
 
