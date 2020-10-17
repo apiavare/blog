@@ -81,7 +81,7 @@ Follow the below tips to get safe drinkable water at your campsite.
 
 #### **3.  Water Treatment Techniques:**
 
-* **Boiling** is a bit old school but still an effective method of treating water. The  Heat will kill most of the common intestinal pathogens at 60- 700 C, well below the boiling point. However, boiling the water to the boiling point for 1 minute allows a margin of safety. Although the boiling point decreases with altitude, at common terrestrial travel elevations it is still well above the temperature required to inactivate enteric pathogens.
+* **Boiling** is a bit old school but still an effective method of treating water. The  Heat will kill most of the common intestinal pathogens at 60-70<sup>0 </sup>  C, well below the boiling point. However, boiling the water to the boiling point for 1 minute allows a margin of safety. Although the boiling point decreases with altitude, at common terrestrial travel elevations it is still well above the temperature required to inactivate enteric pathogens.
 
 {{< cloudimg id="blog/water_treatments/water_treatment5_caexy0" caption="Boiling Water " >}}
 
