@@ -5,7 +5,7 @@ translationKey: Meal_Planning
 date: 2020-10-11T13:18:20.822Z
 authors:
   - Team Api Avare
-cloudimg: blog/a5/p1
+cloudimg: blog/a5/p1_dh2fpt
 intro: ""
 description: Meal planning is one of the most important considerations for any
   backpacking trip. The food you choose will depend on taste preference,
