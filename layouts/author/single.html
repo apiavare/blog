@@ -58,8 +58,11 @@
 					<div class="border-meghna"></div>
 				</div>
 			</div>
-			{{ range where site.RegularPages "Params.author" .Title }}
-			{{ .Render "article" }}
+			{{ $authorTitle := .Title }}
+			{{ range site.RegularPages }}
+				{{ if and (isset .Params "authors") (in .Params.authors $authorTitle) }}
+					{{ .Render "article" }}
+				{{ end }}
 			{{ end }}
 		</div>
 	</div>
