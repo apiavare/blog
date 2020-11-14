@@ -93,6 +93,8 @@ google_analytics_id = "UA-177874130-1" # Your ID
 # post share
 post_share = true
 cloudinary_url = "https://res.cloudinary.com/avare-blog/image/upload"
+imagekit_url = "https://ik.imagekit.io/fpvcjwcgd4"
+flickity = true
 
 # preloader
 [params.preloader]
@@ -101,7 +103,7 @@ preloader = "images/sigil.png"
 
 # google map
 [params.map]
-enable = true
+enable = false
 gmap_api = "https://maps.googleapis.com/maps/api/js?key=AIzaSyBu5nZKbeK-WHQ70oqOWo-_4VmwOwKP9YQ"
 map_latitude = "51.5223477"
 map_longitude = "-0.1622023"

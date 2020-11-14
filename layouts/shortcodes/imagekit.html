@@ -1,0 +1,32 @@
+{{- $path := .Get "path" -}}
+{{- $caption := .Get "caption" -}}
+{{- $class := .Get "class" -}}
+{{- with .Parent -}}
+  <figure class="carousel-cell">
+    <img
+        loading="lazy"
+        sizes="90vw"
+        srcset="{{$path}}?tr=w-256,h-500 256w,
+                {{$path}}?tr=w-512,h-500 512w,
+                {{$path}}?tr=w-768,h-500 768w,
+                {{$path}}?tr=w-1024,h-500 1024w,
+                {{$path}}?tr=w-1280,h-500 1280w"
+        data-flickity-lazyload="{{$path}}?tr=w-512,h-500"
+        alt="{{$caption}}" />
+    <figcaption>{{$caption | humanize}}</figcaption>
+</figure>
+{{- else -}}
+<figure class="avare-resp-figure {{$class}}">
+    <img
+        loading="lazy"
+        sizes="100vw"
+        srcset="{{$path}}?tr=w-256 256w,
+                {{$path}}?tr=w-512 512w,
+                {{$path}}?tr=w-768 768w,
+                {{$path}}?tr=w-1024 1024w,
+                {{$path}}?tr=w-1280 1280w"
+        src="{{$path}}?tr=w-512"
+        alt="{{$caption}}" />
+    <figcaption>{{$caption | humanize}}</figcaption>
+</figure>
+{{- end }}

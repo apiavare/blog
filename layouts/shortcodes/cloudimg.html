@@ -9,6 +9,6 @@
                 {{$baseURL}}/f_auto,w_1024/{{.Get `id`}} 1024w,
                 {{$baseURL}}/f_auto,w_1280/{{.Get `id`}} 1280w"
         src="{{$baseURL}}/f_auto,w_512/{{.Get `id`}}"
-        alt="{{.Get `caption`}}" />
-    <figcaption>{{.Get `caption`}}</figcaption>
+        {{with .Get `caption`}} alt="{{ . }}" {{ end }} />
+    {{with .Get `caption`}}<figcaption>{{ . }}</figcaption>{{ end }}
 </figure>

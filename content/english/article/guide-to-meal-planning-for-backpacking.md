@@ -15,7 +15,7 @@ description: Meal planning is one of the most important considerations for any
 categories:
   - hiking
   - backpacking
-  - mealplanning
+  - meal planning
 ---
 You’ve done your research and got the best pack, the warmest bag, and the right shelter. Now you’re ready to take the plunge and venture off on your first multi-day backpacking adventure. All you have to do is grab your food and you’re ready to hit the trail.
 

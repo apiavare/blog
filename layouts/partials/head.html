@@ -28,6 +28,11 @@
 	{{ $styles := resources.Get "css/style.css" | minify | fingerprint "sha384" }}
 	<link rel="stylesheet" href="{{ $styles.Permalink }}" integrity="{{ $styles.Data.Integrity }}" media="screen">
 
+	{{ if site.Params.flickity }}
+	{{ $flickityStyles := resources.Get "flickity/flickity.css" | minify | fingerprint "sha384" }}
+	<link rel="stylesheet" href="{{ $flickityStyles.Permalink }}" integrity="{{ $flickityStyles.Data.Integrity }}" media="screen">
+	{{ end }}
+
 	{{"<!-- Custom Styles -->" | safeHTML }}
 	{{ $customSass := resources.Get "scss/styles.scss" | toCSS | minify | fingerprint "sha384" }}
 	<link rel="stylesheet" href="{{ $customSass.Permalink }}" integrity="{{ $customSass.Data.Integrity }}"

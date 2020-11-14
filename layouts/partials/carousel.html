@@ -1,0 +1,26 @@
+{{ $data := index site.Data site.Language.Lang }}
+
+{{ if $data.carousel.carousel.enable }}
+{{ with $data.carousel.carousel }}
+<section class="carousel">
+    <h2 class="carousel-title">{{ .title | markdownify }}</h2>
+    <p class="carousel-subtitle">{{ .subtitle | markdownify }}</p>
+    {{"<!-- Header carousel -->" | safeHTML}}
+    <div class="home-carousel" data-flickity='{ "contain": true, "imagesLoaded": true, "lazyLoad": true }'>
+        {{ range .slides }}
+        <figure class="carousel-cell">
+            <img class="carousel-cell-image" loading="lazy" sizes="90vw" srcset="{{ .path }}?tr=w-256,h-500 256w,
+                    {{ .path }}?tr=w-512,h-500 512w,
+                    {{ .path }}?tr=w-768,h-500 768w,
+                    {{ .path }}?tr=w-1024,h-500 1024w,
+                    {{ .path }}?tr=w-1280,h-500 1280w" data-flickity-lazyload="{{ .path }}?tr=w-512,h-500"
+                alt="Caption" />
+            <figcaption class="carousel-cell-caption">{{ .caption }}</figcaption>
+            <p class="carousel-cell-description">{{ .description }}</p>
+        </figure>
+        {{ end }}
+    </div>
+</section>
+{{"<!-- /Header carousel -->" | safeHTML}}
+{{ end }}
+{{ end }}

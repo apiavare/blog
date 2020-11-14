@@ -1,0 +1,17 @@
+carousel:
+  enable: true
+  title: මාතෘකාව
+  subtitle: විස්තරාත්මක කොටස
+  
+  slides:
+    - caption: "ti-email"
+      description: "hello@apiavare.blog"
+      path: https://ik.imagekit.io/fpvcjwcgd4/default-image.jpg
+
+    - caption: "ti-facebook"
+      description: '[ApiAvare](https://www.facebook.com/apiavare/)'
+      path: https://ik.imagekit.io/fpvcjwcgd4/default-image.jpg
+
+    - caption: "ti-instagram"
+      description: '[ApiAvare](https://www.instagram.com/apiavare/)'
+      path: https://ik.imagekit.io/fpvcjwcgd4/default-image.jpg

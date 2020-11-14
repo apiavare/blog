@@ -1,0 +1,17 @@
+carousel:
+  enable: true
+  title: Editors' pick
+  subtitle: A handpicked collection of stunning moments captured by talented photographers
+  
+  slides:
+    - caption: "ti-email"
+      description: "First slide description"
+      path: https://ik.imagekit.io/fpvcjwcgd4/default-image.jpg
+
+    - caption: "ti-facebook"
+      description: 'Second slide description'
+      path: https://ik.imagekit.io/fpvcjwcgd4/default-image.jpg
+
+    - caption: "ti-instagram"
+      description: 'Third slide description'
+      path: https://ik.imagekit.io/fpvcjwcgd4/default-image.jpg

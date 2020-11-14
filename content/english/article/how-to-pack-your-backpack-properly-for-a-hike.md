@@ -72,6 +72,14 @@ Include lid pockets, front pockets, side pockets and hip belt pockets. The avail
 
 {{< cloudimg id="blog/how-to-pack-backpack-4_wsqyef" caption="Accessory pockets" class="w500" >}}
 
+<!-- {{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/default-image.jpg" caption="Image Kit sample" >}} -->
+
+{{< slider >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/default-image.jpg" caption="Image Kit 1" >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/default-image.jpg" caption="Image Kit 2" >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/default-image.jpg" caption="Image Kit 3" >}}
+{{< /slider >}}
+
 Best for the essentials you’ll need urgently or often on the trail.
 
 * Map

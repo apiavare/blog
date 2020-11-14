@@ -37,6 +37,11 @@
 <script src="{{ .link | absURL }}"></script>
 {{ end }}
 
+{{ if site.Params.flickity }}
+{{ $flickitysScript := resources.Get "flickity/flickity.pkgd.min.js" | fingerprint "sha384" }}
+<script src="{{ $flickitysScript.Permalink }}" integrity="{{ $flickitysScript.Data.Integrity }}"></script>
+{{ end }}
+
 {{ "<!-- Main Script -->" | safeHTML }}
 {{ $script := resources.Get "js/script.js" | minify | fingerprint "sha384"}}
 <script src="{{ $script.Permalink }}" integrity="{{ $script.Data.Integrity }}"></script>
