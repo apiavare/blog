@@ -1,7 +1,7 @@
 ---
 title: Guide to Meal Planning for Backpacking
-slug: Meal_Planning
-translationKey: Meal_Planning
+slug: guide-to-meal-planning-for-backpacking
+translationKey: guide-to-meal-planning-for-backpacking
 date: 2020-10-11T13:18:20.822Z
 authors:
   - Team Api Avare
