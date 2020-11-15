@@ -6,7 +6,7 @@ date: 2020-09-01T07:19:29.850Z
 authors:
   - team-api-avare
   - sanoj-wijayasekara
-cloudimg: blog/how-to-pack-backpack-1_kleuzm
+cloudimg: https://ik.imagekit.io/fpvcjwcgd4/blog/3-how-to-pack-your-backpack/how-to-pack-backpack-1_kleuzm_DTHOgOotQ.jpg
 description: You might have gone many backpacking trips around so far, but did
   you ever know there are standards to pack your backpack?
 categories:
@@ -18,17 +18,17 @@ references:
   - link: https://www.backpacker.com/skills/how-to-pack-a-backpack
     label: Backpacker
 ---
-You might have gone many backpacking trips around so far, but did you ever know there are standards to pack your backpack? We all know that a poorly loaded backpack put a damper on your whole adventure since you will be carrying it for hours, days or even weeks at a time. A well-loaded pack will feel balanced when resting on your hips and won’t shift or sway as you hike with it. Therefore, it is very important to know how to pack it in the right way with efficiency, convenience and comfort in mind.
+You might have gone on many backpacking trips around so far, but did you ever know there are standards to pack your backpack? We all know that a poorly loaded backpack put a damper on your whole adventure since you will be carrying it for hours, days or even weeks at a time. A well-loaded pack will feel balanced when resting on your hips and won’t shift or sway as you hike with it. Therefore, it is very important to know how to pack it in the right way with efficiency, convenience and comfort in mind.
 
 ## Main storage compartments of a backpack
 
-{{< cloudimg id="blog/how-to-pack-backpack-2_om7fpf" caption="Main parts of a backpack" >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/3-how-to-pack-your-backpack/how-to-pack-backpack-2_om7fpf_Eg5pRqLAu.png" caption="Main parts of a backpack" >}}
 
 ## Tips for packing your backpack
 
 When loading your gear, remember to maintain comfort and convenience. Your gear must be packed comfortably so that it won’t interfere with your center of gravity as well as it should be packed conveniently so you can get the gear you need without letting everything out.
 
-{{< cloudimg id="blog/how-to-pack-backpack-3_uet4vg" caption="Packing the backpack" >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/3-how-to-pack-your-backpack/how-to-pack-backpack-3_uet4vg_Dfna2kJoC.jpg" caption="Packing the backpack" >}}
 
 ### Bottom Zone
 
@@ -70,7 +70,7 @@ You can even stash your tent to the top zone if you need fast access for it.
 
 Include lid pockets, front pockets, side pockets and hip belt pockets. The availability of these pockets may depend on the brand of your pack.
 
-{{< cloudimg id="blog/how-to-pack-backpack-4_wsqyef" caption="Accessory pockets" class="w500" >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/3-how-to-pack-your-backpack/how-to-pack-backpack-4_wsqyef_mKpEN8W3J.jpg" caption="Accessory pockets" class="w500" >}}
 
 Best for the essentials you’ll need urgently or often on the trail.
 
@@ -100,7 +100,7 @@ For oversized or overly long items.
 * Large sleeping pads
 * Climbing ropes
 
-{{< cloudimg id="blog/how-to-pack-backpack-5_sc0n0i" caption="Loops and lash-on points" >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/3-how-to-pack-your-backpack/how-to-pack-backpack-5_sc0n0i_LzF92rNt0.jpg" caption="Loops and lash-on points" >}}
 
 Many packs have special tool loops, fasteners or other storage solutions for some of this gear. Daisy chains, lash patches and compression straps can also be used to wrangle gear that simply can’t be carried in any other place.
 
