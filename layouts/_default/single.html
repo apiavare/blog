@@ -13,11 +13,11 @@
             {{ $section := where site.RegularPages "Section" "author"}}
             <ul class="authors-list">
               {{ range $section }}
+              {{ if in $authorSlugs .Params.slug }}
               <li class="author-item">
-                {{ if in $authorSlugs .Params.slug }}
                 <a rel="author" href="{{ `author/` | relLangURL }}{{ .Params.slug }}/">{{ .Params.title }}</a>
-                {{ end }}
               </li>
+              {{ end }}
               {{ end }}
             </ul>
           </li>
