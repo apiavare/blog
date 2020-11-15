@@ -5,7 +5,7 @@ translationKey: how-to-setup-a-tent
 date: 2020-09-01T07:39:31.041Z
 authors:
   - team-api-avare
-cloudimg: blog/how-to-setup-tent-1_uihebd
+cloudimg: https://ik.imagekit.io/fpvcjwcgd4/blog/4-how-to-setup-a-tent/how-to-setup-tent-1_uihebd_8KjxcAz9zSq.jpg
 description: The tent is an essential and useful camping gear for backpackers.
   But some frustrated campers undergo many difficulties when trying to set it up
   in the darkness after a tiring hike. This article will help you out to
@@ -31,7 +31,7 @@ Set up your tent at home reading the instructions carefully, before hitting the 
 
 ## 2. Selecting a campsite
 
-{{< cloudimg id="blog/how-to-setup-tent-2_bidbsp_mxhs9m" caption="Selecting a campsite" >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/4-how-to-setup-a-tent/how-to-setup-tent-2_bidbsp_mxhs9m_z1hWF6gd9H.jpg" caption="Selecting a campsite" >}}
 
 You could follow this set of practices when selecting a better campsite to set up your tent.
 
@@ -49,7 +49,7 @@ Tips : Even though you are using a quality tent that can handle both wind and ra
 * Though many campers will orient a tent with the smaller side facing the wind for reduced resistance, it’s more important to place the side that has the strongest pole structure facing the wind.
 * If you’re camping in a hot climate, orient a door toward the wind for cooling.
 
-{{< cloudimg id="blog/how-to-setup-tent-3_c0nto7" caption="Camping in wind" >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/4-how-to-setup-a-tent/how-to-setup-tent-3_c0nto7_rdUguNMPVi.jpg" caption="Camping in wind" >}}
 
 ### To prevent water-related issues
 
@@ -63,21 +63,21 @@ Seek higher, drier ground so you have less moisture in the air to form condensat
 
 * Step 1 : Clear the debris from the tent site: Remove the things that can damage the tent floor and poke you in the backside.
 
-{{< cloudimg id="blog/how-to-setup-tent-4_hlqum7" caption="Clearing camp floor" >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/4-how-to-setup-a-tent/how-to-setup-tent-4_hlqum7_wJZ7iUsax.jpg" caption="Clearing camp floor" >}}
 
 * Step 2 : Lay a tarp/footprint down before putting up your tent: The goal is to put a barrier in between the ground and the bottom of your tent to protect it from gathering moisture.
 * Step 3 : Lay your tent onto the tarp : Find the bottom side of the tent and put that side down on the tarp. Orient the window and door of the tent in the direction you’d like to face them while considering the above-mentioned facts as well.
 
-{{< cloudimg id="blog/how-to-setup-tent-5_sgbbbr" caption="Laying the tarp" >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/4-how-to-setup-a-tent/how-to-setup-tent-5_sgbbbr_umtCN8Dg903.jpg" caption="Laying the tarp" >}}
 
 * Step 4 : Connect the tent poles : Go slow with the poles because they can get tweaked or chipped. Take your time put the poles together and lay them across the flat tent.
 * Step 5 : Insert tent poles into the corresponding flaps in the tent : Most basic tents will have two tent poles that cross each other to form an X that will form the basic frame of the tent.
 * Step 6 : Raise the tent : With the poles connected and attached to the flaps, the next thing that you will have to do it to raise it. This task requires some coordination.
 
-{{< cloudimg id="blog/how-to-setup-tent-6_kpo9ix" caption="Raising the tent" >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/4-how-to-setup-a-tent/how-to-setup-tent-6_kpo9ix_bN9y6gR1fo.jpg" caption="Raising the tent" >}}
 
 * Step 7 : Stake the tent to the ground : After raising the tent, square tent on the tarp and use metal stakes to fit through the flaps near the ground at the corners and push them into the ground. If you can’t push them in with your hand or foot, you can use a large rock for this job.
 
-{{< cloudimg id="blog/how-to-setup-tent-7_bwurhm" caption="Fixing tent to the ground" >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/4-how-to-setup-a-tent/how-to-setup-tent-7_bwurhm_k1Hj_Ab-dIg.jpg" caption="Fixing tent to the ground" >}}
 
 * Step 8 : Set the rainfly : The rain fly adds a cover to the tent and you should install it to keep the rain away. Some rain fly comes with separate poles for installation. Set them up according to their instructions.
