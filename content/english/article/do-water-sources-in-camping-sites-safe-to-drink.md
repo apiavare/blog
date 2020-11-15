@@ -95,4 +95,4 @@ Follow the below tips to get safe drinkable water at your campsite.
 
 * **UV light lamps/pens** are another quick way of purifying water. This is effective to disinfect small quantities of clear water. UV light disrupts the DNA of bacteria, parasites and viruses. However, this technique is less effective in cloudy water because small particles may shield germs from the light.
 
-{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/6-water-treatment-techniques-for-backpacking/water_treatment8_m82dyf_CPpJkwY7tJ.jpg" caption="Water treatment with UV pen   " >}}
+  {{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/6-water-treatment-techniques-for-backpacking/water_treatment8_m82dyf_CPpJkwY7tJ.jpg" caption="Water treatment with UV pen   " >}}
