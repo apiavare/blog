@@ -6,8 +6,7 @@
           onerror="this.onerror=null;this.src='{{ .Params.Image | absURL }}'"> -->
         {{ if .Params.cloudimg }}
         <figure>
-          {{ $baseURL := site.Params.cloudinary_url }}
-          <img class="img-fluid lozad" loading="lazy" src="{{$baseURL}}/f_auto,q_90,w_512/{{ .Params.cloudimg }}"
+          <img class="img-fluid lozad" loading="lazy" src="{{ .Params.cloudimg }}?tr=w-512"
             alt="avare-list-image" />
         </figure>
         {{ end }}
