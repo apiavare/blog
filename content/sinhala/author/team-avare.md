@@ -1,5 +1,5 @@
 ---
-title: Team Api Avare
+title: අපි අවාරේ කණ්ඩායම
 slug: team-api-avare
 translationKey: team-api-avare
 email: avare.dpt@gmail.com

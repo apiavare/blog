@@ -85,12 +85,9 @@ weight = 1
 ############################# Default Parameters ##########################
 [params]
 logo = "images/sigil.png"
-# Meta data
 description = "ApiAvare is a virtual community of passionate & professional travelers, biologists, naturalists to share their expert knowledge for navigating you through the best traveling experience in complete safety."
 author = "ApiAvare"
-# Google Analytics
-google_analytics_id = "UA-177874130-1" # Your ID
-# post share
+google_analytics_id = "UA-177874130-1"
 post_share = true
 cloudinary_url = "https://res.cloudinary.com/avare-blog/image/upload"
 imagekit_url = "https://ik.imagekit.io/fpvcjwcgd4"

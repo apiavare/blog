@@ -9,11 +9,14 @@
         <h1>{{ .Title }}</h1>
         <ul class="list-inline">
           <li class="list-inline-item">
+            {{ $authorSlugs := .Params.authors }}
+            {{ $section := where site.RegularPages "Section" "author"}}
             <ul class="authors-list">
-              {{ range .Params.Authors }}
+              {{ range $section }}
               <li class="author-item">
-                <a rel="author"
-                  href="{{ `author/` | relLangURL }}{{ . | urlize }}/">{{ . }}</a>
+                {{ if in $authorSlugs .Params.slug }}
+                <a rel="author" href="{{ `author/` | relLangURL }}{{ .Params.slug }}/">{{ .Params.title }}</a>
+                {{ end }}
               </li>
               {{ end }}
             </ul>

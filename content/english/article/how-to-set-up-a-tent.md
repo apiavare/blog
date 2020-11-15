@@ -4,7 +4,7 @@ slug: how-to-setup-a-tent
 translationKey: how-to-setup-a-tent
 date: 2020-09-01T07:39:31.041Z
 authors:
-  - Team Api Avare
+  - team-api-avare
 cloudimg: blog/how-to-setup-tent-1_uihebd
 description: The tent is an essential and useful camping gear for backpackers.
   But some frustrated campers undergo many difficulties when trying to set it up

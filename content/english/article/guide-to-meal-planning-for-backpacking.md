@@ -4,7 +4,7 @@ slug: guide-to-meal-planning-for-backpacking
 translationKey: guide-to-meal-planning-for-backpacking
 date: 2020-10-11T13:18:20.822Z
 authors:
-  - Team Api Avare
+  - team-api-avare
 cloudimg: blog/a5/p1_dh2fpt
 intro: ""
 description: Meal planning is one of the most important considerations for any

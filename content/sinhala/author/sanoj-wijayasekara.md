@@ -1,5 +1,5 @@
 ---
-title: Sanoj Wijayasekara
+title: සනෝජ් විජයසේකර
 slug: sanoj-wijayasekara
 translationKey: sanoj-wijayasekara
 cloudimg: authors/team-avare_il8zgw

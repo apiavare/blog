@@ -4,7 +4,7 @@ slug: Water_treatment_techniques_for_backpackers
 translationKey: Water_treatment_techniques_for_backpackers
 date: 2020-10-11T14:33:59.729Z
 authors:
-  - Team Api Avare
+  - team-api-avare
 cloudimg: blog/water_treatments/water_treatment1_ktimdh
 description: Even though how perfect that mountain stream looks, we can’t assure
   it is harboring a gut-seeking microbe or not. Therefore, follow the below tips

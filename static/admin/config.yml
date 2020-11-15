@@ -1,6 +1,6 @@
 backend:
-    name: git-gateway
-    branch: master #Branch to update (optional: defaults to master)
+  name: git-gateway
+  branch: master #Branch to update (optional: defaults to master)
 
 publish_mode: editorial_workflow
 media_folder: "static/images/blog" #Actual media directory
@@ -10,73 +10,128 @@ site_url: https://apiavare.blog
 logo_url: https://apiavare.blog/images/favicon.png
 
 collections:
-    - name: "articles-si"
-      label: "Sinhala Articles"
-      folder: "content/sinhala/article"
-      create: true
-      slug: "{{slug}}"
-      fields:
-        - label: "Title"
-          name: "title"
-          widget: "string"
-        - label: "Slug"
-          name: "slug"
-          widget: "string"
-        - label: "Translation Key"
-          name: "translationKey"
-          widget: "string"
-        - label: "Publish Date"
-          name: "date"
-          widget: "datetime"
-        - label: "Authors"
-          name: "authors"
-          widget: "list"
-        - {label: "Featured Image", name: "cloudimg", widget: "string", required: false}
-        - {label: "Intro", name: "intro", widget: "string", required: false}
-        - {label: "Meta Description", name: "description", widget: "string", required: false}
-        - {label: "Categories", name: "categories", widget: "list"}
-        - {label: "References", name: "references", widget: "list", required: false, fields: [{label: "Label text", name: "label", widget: "string"}, {label: "Link", name: "link", widget: "string"}]}
-        - {label: "Body", name: "body", widget: "markdown"}
-    - name: "articles-en"
-      label: "English Articles"
-      folder: "content/english/article"
-      create: true
-      slug: "{{slug}}"
-      fields:
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Slug", name: "slug", widget: "string"}
-        - {label: "Translation Key", name: "translationKey", widget: "string"}
-        - {label: "Publish Date", name: "date", widget: "datetime"}
-        - {label: "Authors", name: "authors", widget: "list"}
-        - {label: "Featured Image", name: "cloudimg", widget: "string", required: false}
-        - {label: "Intro", name: "intro", widget: "string", required: false}
-        - {label: "Meta Description", name: "description", widget: "string", required: false}
-        - {label: "Categories", name: "categories", widget: "list"}
-        - {label: "References", name: "references", widget: "list", required: false, fields: [{label: "Label text", name: "label", widget: "string"}, {label: "Link", name: "link", widget: "string"}]}
-        - {label: "Body", name: "body", widget: "markdown"}
-    - name: "authors-si"
-      label: "Sinhala Authors"
-      folder: "content/sinhala/author"
-      create: true
-      slug: "{{slug}}"
-      fields:
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Slug", name: "slug", widget: "string"}
-        - {label: "Translation Key", name: "translationKey", widget: "string"}
-        - {label: "Email", name: "email", widget: "string"}
-        - {label: "Thumbnail", name: "cloudimg", widget: "string", required: false}
-        - {label: "Social Links", name: "social", widget: "list", fields: [{label: "Icon", name: "icon", widget: "string"}, {label: "Link", name: "link", widget: "string"}]}
-        - {label: "Body", name: "body", widget: "markdown", required: false}
-    - name: "authors-en"
-      label: "English Authors"
-      folder: "content/english/author"
-      create: true
-      slug: "{{slug}}"
-      fields:
-        - {label: "Title", name: "title", widget: "string"}
-        - {label: "Slug", name: "slug", widget: "string"}
-        - {label: "Translation Key", name: "translationKey", widget: "string"}
-        - {label: "Email", name: "email", widget: "string"}
-        - {label: "Thumbnail", name: "cloudimg", widget: "string", required: false}
-        - {label: "Social Links", name: "social", widget: "list", fields: [{label: "Icon", name: "icon", widget: "string"}, {label: "Link", name: "link", widget: "string"}]}
-        - {label: "Body", name: "body", widget: "markdown", required: false}
+  - name: "articles-si"
+    label: "Sinhala Articles"
+    folder: "content/sinhala/article"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Translation Key", name: "translationKey", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - label: "Authors"
+        name: "authors"
+        widget: "relation"
+        collection: "authors-si"
+        multiple: true
+        search_fields: ["slug", "title"]
+        value_field: "slug"
+        display_fields: ["title", "followerCount"]
+      - {
+          label: "Featured Image",
+          name: "cloudimg",
+          widget: "string",
+          required: false,
+        }
+      - { label: "Intro", name: "intro", widget: "string", required: false }
+      - {
+          label: "Meta Description",
+          name: "description",
+          widget: "string",
+          required: false,
+        }
+      - { label: "Categories", name: "categories", widget: "list" }
+      - label: "References"
+        name: "references"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Label text", name: "label", widget: "string" }
+          - { label: "Link", name: "link", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "articles-en"
+    label: "English Articles"
+    folder: "content/english/article"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Translation Key", name: "translationKey", widget: "string" }
+      - { label: "Publish Date", name: "date", widget: "datetime" }
+      - label: "Authors"
+        name: "authors"
+        widget: "relation"
+        collection: "authors-en"
+        multiple: true
+        search_fields: ["slug", "title"]
+        value_field: "slug"
+      - {
+          label: "Featured Image",
+          name: "cloudimg",
+          widget: "string",
+          required: false,
+        }
+      - { label: "Intro", name: "intro", widget: "string", required: false }
+      - {
+          label: "Meta Description",
+          name: "description",
+          widget: "string",
+          required: false,
+        }
+      - { label: "Categories", name: "categories", widget: "list" }
+      - label: "References"
+        name: "references"
+        widget: "list"
+        required: false
+        fields:
+          - { label: "Label text", name: "label", widget: "string" }
+          - { label: "Link", name: "link", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown" }
+  - name: "authors-si"
+    label: "Sinhala Authors"
+    folder: "content/sinhala/author"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Translation Key", name: "translationKey", widget: "string" }
+      - { label: "Email", name: "email", widget: "string" }
+      - {
+          label: "Thumbnail",
+          name: "cloudimg",
+          widget: "string",
+          required: false,
+        }
+      - label: "Social Links"
+        name: "social"
+        widget: "list"
+        fields:
+          - { label: "Icon", name: "icon", widget: "string" }
+          - { label: "Link", name: "link", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown", required: false }
+  - name: "authors-en"
+    label: "English Authors"
+    folder: "content/english/author"
+    create: true
+    slug: "{{slug}}"
+    fields:
+      - { label: "Title", name: "title", widget: "string" }
+      - { label: "Slug", name: "slug", widget: "string" }
+      - { label: "Translation Key", name: "translationKey", widget: "string" }
+      - { label: "Email", name: "email", widget: "string" }
+      - {
+          label: "Thumbnail",
+          name: "cloudimg",
+          widget: "string",
+          required: false,
+        }
+      - label: "Social Links"
+        name: "social"
+        widget: "list"
+        fields:
+          - { label: "Icon", name: "icon", widget: "string" }
+          - { label: "Link", name: "link", widget: "string" }
+      - { label: "Body", name: "body", widget: "markdown", required: false }

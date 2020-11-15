@@ -4,7 +4,7 @@ slug: backpacking-basics
 translationKey: backpacking-basics
 date: 2020-08-29T14:19:52.381Z
 authors:
-  - Team Api Avare
+  - team-api-avare
 cloudimg: blog/backpacking-basics-1_pz2651
 intro: ""
 description: Backpacking is the best form of low cost travelling to seek
