@@ -5,7 +5,7 @@ translationKey: backpacking-basics
 date: 2020-08-29T14:19:52.381Z
 authors:
   - team-api-avare
-cloudimg: https://ik.imagekit.io/fpvcjwcgd4/Blog/Backpacking_basics/backpacking-basics-1_pz2651_f8pxxyMmh.jpg
+cloudimg: https://ik.imagekit.io/fpvcjwcgd4/blog/1-backpacking-basics/backpacking-basics-1_pz2651_w2nOBNaNW.jpg
 intro: ""
 description: Backpacking is the best form of low cost travelling to seek
   adventure, which blends hiking with back-country camping.However, as a
@@ -38,7 +38,7 @@ The key advice here is to choose a location where the hike is not too hard; othe
 
 Backpacking is a low budget-traveling medium; always plan to keep your initial investment low. You can borrow or rent the priciest items such as your tent, sleeping bag, sleeping pad, and backpack.
 
-{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/Blog/1_Backpacking_basics/backpacking-basics-2_xvxhrm_QXLDbMkZF.jpg" caption="Essential Backpacking Gear" >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/1-backpacking-basics/backpacking-basics-2_xvxhrm_QXLDbMkZF.jpg" caption="Essential Backpacking Gear" >}}
 
 Since you have to carry and fit all your gear into your backpack, they needed to be lightweight and compact. That is why it is required to organize your backpacking gear carefully. The followings are the most essential items you will need for any backpacking trip:
 
@@ -54,7 +54,7 @@ Since you have to carry and fit all your gear into your backpack, they needed to
 
 No need to buy special hiking clothes for your first backpacking trip. Simply go with your fitness wear and some clothing made of moisture-wicking, quick-drying fabrics like nylon and polyester. Moisture-wicking fabrics pull sweat away from the skin to keep you dryer. Avoid cotton, which slurps up water and takes a long time to dry.
 
-{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/Blog/1_Backpacking_basics/backpacking-basics-3_c5otyr_gPRmg8MH0.jpg" caption="Clothes for backpacking" >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/1-backpacking-basics/backpacking-basics-3_c5otyr_gPRmg8MH0.jpg" caption="Clothes for backpacking" >}}
 
 Be mindful to bring a jacket, warm hat, gloves, and rainwear as precautions.
 
@@ -64,7 +64,7 @@ You can wear supportive over-the-ankle-boots or lightweight trail running shoes 
 
 If you are planning for an overnight backpacking trip, plan for the dinner, breakfast, and a couple of lunch. Always try to get some instant cooking food instead of perishable things. You can have your breakfast and lunch of the first day on your way. It is recommended to have some extra food, snacks though enough for an added day in the wilds. Here are some meal-tips for your first backpacking trip.
 
-{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/Blog/1_Backpacking_basics/backpacking-basics-4_xns3i4_ahyJm8--L.jpg" caption="Meals during backpacking" >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/1-backpacking-basics/backpacking-basics-4_xns3i4_ahyJm8--L.jpg" caption="Meals during backpacking" >}}
 
 * Dinner : Instant Noodles, rice with an instant curry, rottee, bread
 * Breakfast: Bread with butter/jam, cereals, samaposha, tea, or coffee. If you have time, prepare something for lunch as well.
@@ -74,7 +74,7 @@ If you are planning for an overnight backpacking trip, plan for the dinner, brea
 
 When you get everything mentioned above arranged, your backpack is ready for your trip. Nevertheless, do yourself is up to take this challenge? Follow the below steps to get yourself physically, mentally and legally prepared for your first backpacking trip.
 
-{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/Blog/1_Backpacking_basics/backpacking-basics-5_dfq6pv_x8XoEq-PV.jpg" caption="Getting ready for the trip" >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/1-backpacking-basics/backpacking-basics-5_dfq6pv_x8XoEq-PV.jpg" caption="Getting ready for the trip" >}}
 
 * Do at least a few pre-trip hikes of similar difficulty wearing a backpack loaded with 20% of body weight.
 * Familiarize yourself with your gear ahead of time. Lean-to pitch your tent, fire up your stove, filter some water, some first aid skills, map reading and compass navigation skills before you go.
