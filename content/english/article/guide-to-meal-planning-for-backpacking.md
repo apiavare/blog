@@ -5,7 +5,7 @@ translationKey: guide-to-meal-planning-for-backpacking
 date: 2020-10-11T13:18:20.822Z
 authors:
   - team-api-avare
-cloudimg: blog/a5/p1_dh2fpt
+cloudimg: https://ik.imagekit.io/fpvcjwcgd4/blog/5-guide-to-meal-planning-for-backpacking/p1_dh2fpt_u0PraQUV-9H.jpg
 intro: ""
 description: Meal planning is one of the most important considerations for any
   backpacking trip. The food you choose will depend on taste preference,
@@ -33,7 +33,7 @@ If you’re clocking many miles over rough terrain one day, you may want to load
 
 Not enough food and you may feel too sluggish to continue the journey so It’s better to pack a little bit more but not too much. Extra food equals unnecessary weight.
 
-{{< cloudimg id="blog/a5/p4" caption="" >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/5-guide-to-meal-planning-for-backpacking/p4_Q2EHyDRNuS.jpg" caption="" >}}
 
 2. What food should you bring?
 
@@ -47,7 +47,8 @@ Though you can take many types of food for backpacking, it’s better to stick w
 * Stay hydrated with flavored beverages – Consider taking tea, chai, coffee instant soup with you
 * Dehydrate your own meal – Dehydrating your meal takes more time and preparation, but it can save you money as well as weight and volume in your pack. We’ll teach you how to dehydrate your meal from another article.
 
-{{< cloudimg id="blog/a5/p2" caption="Dehydrated Fruits" >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/5-guide-to-meal-planning-for-backpacking/p2_qMPTbZOSdT.jpg" caption="Dehydrated Fruits" >}}
+
 * Consider instant food – There are several ready to eat meals in the market for hikers. Add hot water and wait for the food to rehydrate. They are relatively pricey, but you can find a lot of decent options to suit your taste, even gluten-free and vegan backpacking food.
 
 3. How to plan food for backpacking?
@@ -70,7 +71,7 @@ As you plan your meal, also consider:
 * The weigh costs
 * The Cookware, eating utensils and matches/lighter
 
-{{< cloudimg id="blog/a5/p3" caption="Meal Plans" >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/5-guide-to-meal-planning-for-backpacking/p3_38IQU4Uyi.jpg" caption="Meal Plans" >}}
 
 4. Other Meal tips for Backpacking
 
