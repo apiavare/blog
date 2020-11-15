@@ -31,18 +31,15 @@
           {{ end }}
         </ul>
         <div class="mb-50"></div>
-        <!-- <img class="img-fluid mb-50 lozad" data-src="{{ .Params.Image | absURL }}" alt="blog-image"> -->
       </div>
       {{ if .Params.cloudimg }}
       <div class="col-lg-12 featured-image">
         <figure class="mb-50">
-          {{ $baseURL := site.Params.cloudinary_url }}
-          <img class="img-fluid lozad" loading="lazy" sizes="100vw" srcset="{{$baseURL}}/f_auto,q_90,w_256/{{ .Params.cloudimg }} 256w,
-                      {{$baseURL}}/f_auto,q_90,w_512/{{ .Params.cloudimg }} 512w,
-                      {{$baseURL}}/f_auto,q_90,w_768/{{ .Params.cloudimg }} 768w,
-                      {{$baseURL}}/f_auto,q_90,w_1024/{{ .Params.cloudimg }} 1024w,
-                      {{$baseURL}}/f_auto,q_90,w_1280/{{ .Params.cloudimg }} 1280w"
-            src="{{$baseURL}}/f_auto,q_90,w_512/{{ .Params.cloudimg }}" alt="blog-image" />
+          <img class="img-fluid lozad" loading="lazy" sizes="100vw" srcset="{{ .Params.cloudimg }}?tr=w-256 256w,
+                      {{ .Params.cloudimg }}?tr=w-512 512w,
+                      {{ .Params.cloudimg }}?tr=w-768 768w,
+                      {{ .Params.cloudimg }}?tr=w-1024 1024w,
+                      {{ .Params.cloudimg }}?tr=w-1280 1280w" src="{{ .Params.cloudimg }}?tr=w-512" alt="blog-image" />
         </figure>
       </div>
       {{ end }}
