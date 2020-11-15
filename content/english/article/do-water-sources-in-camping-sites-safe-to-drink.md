@@ -91,8 +91,8 @@ Follow the below tips to get safe drinkable water at your campsite.
 
 * **Chemical water treatment**, tablets or packets to disinfect water are too favorite among lightweight backpackers. These usually combine chemical disinfectants (such as chlorine or iodine) with a substance that makes the water clear and improves its taste. You need to follow the instructions on the package closely when using it.
 
-   {{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/6-water-treatment-techniques-for-backpacking/water_treatment7_mpwxhw_MPjDZmOqzud.jpg" caption="Chemical water treatment kit   " >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/6-water-treatment-techniques-for-backpacking/water_treatment7_mpwxhw_MPjDZmOqzud.jpg" caption="Chemical water treatment kit   " >}}
 
 * **UV light lamps/pens** are another quick way of purifying water. This is effective to disinfect small quantities of clear water. UV light disrupts the DNA of bacteria, parasites and viruses. However, this technique is less effective in cloudy water because small particles may shield germs from the light.
 
-  {{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/6-water-treatment-techniques-for-backpacking/water_treatment8_m82dyf_CPpJkwY7tJ.jpg" caption="Water treatment with UV pen   " >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/6-water-treatment-techniques-for-backpacking/water_treatment8_m82dyf_CPpJkwY7tJ.jpg" caption="Water treatment with UV pen   " >}}
