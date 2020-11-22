@@ -4,14 +4,13 @@ carousel:
   subtitle: විස්තරාත්මක කොටස
   
   slides:
-    - caption: "ti-email"
-      description: "hello@apiavare.blog"
-      path: https://ik.imagekit.io/fpvcjwcgd4/default-image.jpg
+    - caption: මාතෘකාව 1
+      path: https://ik.imagekit.io/fpvcjwcgd4/blog/1-backpacking-basics/backpacking-basics-3_c5otyr_gPRmg8MH0.jpg
+      link: https://facebook.com/apiavare#1
 
-    - caption: "ti-facebook"
-      description: '[ApiAvare](https://www.facebook.com/apiavare/)'
-      path: https://ik.imagekit.io/fpvcjwcgd4/default-image.jpg
+    - caption: මාතෘකාව 2
+      path: https://ik.imagekit.io/fpvcjwcgd4/blog/1-backpacking-basics/backpacking-basics-2_xvxhrm_QXLDbMkZF.jpg
 
-    - caption: "ti-instagram"
-      description: '[ApiAvare](https://www.instagram.com/apiavare/)'
-      path: https://ik.imagekit.io/fpvcjwcgd4/default-image.jpg
+    - caption: මාතෘකාව 3
+      path: https://ik.imagekit.io/fpvcjwcgd4/blog/1-backpacking-basics/backpacking-basics-1_pz2651_w2nOBNaNW.jpg
+      link: https://facebook.com/apiavare#3

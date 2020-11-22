@@ -4,14 +4,13 @@ carousel:
   subtitle: A handpicked collection of stunning moments captured by talented photographers
   
   slides:
-    - caption: "ti-email"
-      description: "First slide description"
-      path: https://ik.imagekit.io/fpvcjwcgd4/default-image.jpg
+    - caption: Caption 1
+      path: https://ik.imagekit.io/fpvcjwcgd4/blog/5-guide-to-meal-planning-for-backpacking/p1_dh2fpt_u0PraQUV-9H.jpg
+      link: https://facebook.com/apiavare#1
 
-    - caption: "ti-facebook"
-      description: 'Second slide description'
-      path: https://ik.imagekit.io/fpvcjwcgd4/default-image.jpg
+    - caption: Caption 2
+      path: https://ik.imagekit.io/fpvcjwcgd4/blog/5-guide-to-meal-planning-for-backpacking/p2_qMPTbZOSdT.jpg
 
-    - caption: "ti-instagram"
-      description: 'Third slide description'
-      path: https://ik.imagekit.io/fpvcjwcgd4/default-image.jpg
+    - caption: Caption 3
+      path: https://ik.imagekit.io/fpvcjwcgd4/blog/5-guide-to-meal-planning-for-backpacking/p4_Q2EHyDRNuS.jpg
+      link: https://facebook.com/apiavare#3

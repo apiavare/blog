@@ -1,6 +1,6 @@
-.home-carousel,
 .article-carousel {
     width: 100%;
+    height: 500px;
     margin-top: 10px;
 
     .carousel-cell {
@@ -32,25 +32,63 @@ section.carousel {
     }
 
     .home-carousel {
+        width: 100%;
+        margin-top: 10px;
         height: 600px;
 
         .carousel-cell {
-            img {
-                border-radius: var(--border-radius);
-            }
+            width: 100%;
+            height: 100%;
+            display: flex;
+            flex-direction: column;
+            justify-content: center;
+            color: var(--tc-1);
 
-            &-caption {
-                text-transform: uppercase;
-            }
+            &-figure {
+                position: relative;
 
-            &-description {
-                text-align: center;
+                .carousel-cell-image {
+                    object-fit: contain;
+                    border-radius: var(--br);
+                }
+
+                .carousel-cell-caption {
+                    position: absolute;
+                    bottom: 10%;
+                    left: 10%;
+                    font-family: "Nunito", Arial, sans-serif;
+                    font-size: 2rem;
+                    font-weight: bold;
+                    text-transform: uppercase;
+                    background-color: var(--avare-green);
+                    padding: 10px;
+                    border-radius: var(--br-btn);
+                }
+
+                .carousel-cell-description {
+                    position: absolute;
+                    bottom: 5%;
+                    left: 10%;
+                    text-align: center;
+                }
             }
         }
+
+        @media screen and (max-width: 1024px) {
+            height: 400px;
+        }
+
+        @media screen and (max-width: 768px) {
+            height: 300px;
+
+            .carousel-cell .carousel-cell-figure .carousel-cell-caption {
+                font-size: 1rem;
+                padding: 2px 5px;
+            }
+        }
+
+        @media screen and (max-width: 425px) {
+            height: 150px;
+        }
     }
-}
-
-
-.article-carousel {
-    height: 500px;
 }

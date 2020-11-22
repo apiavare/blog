@@ -2,7 +2,7 @@
     transition: transform 200ms ease;
 
     .post-block {
-        border-radius: var(--border-radius);
+        border-radius: var(--br);
 
         .media-wrapper {
             figure {
@@ -11,8 +11,8 @@
             }
 
             img {
-                border-top-left-radius: var(--border-radius);
-                border-top-right-radius: var(--border-radius);
+                border-top-left-radius: var(--br);
+                border-top-right-radius: var(--br);
             }
         }
 
@@ -20,7 +20,7 @@
             color: var(--avare-body-text);
 
             .avare-readmore {
-                border-radius: var(--border-radius-btn);
+                border-radius: var(--br-btn);
             }
         }
     }
