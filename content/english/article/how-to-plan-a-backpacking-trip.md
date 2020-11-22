@@ -5,7 +5,7 @@ translationKey: how-to-plan-a-backpacking-trip
 date: 2020-09-01T06:49:35.628Z
 authors:
   - team-api-avare
-cloudimg: blog/how-to-plan-a-trip-1_uv5igt
+cloudimg: https://ik.imagekit.io/fpvcjwcgd4/blog/2-how-to-plan-backpacking-trip/how-to-plan-a-trip-1_uv5igt_LfsspuvqUn.jpg
 description: Backpacking trips can be serious fun with a tiny effort. A
   well-planned backpacking trip will allow you to camp in beautiful places to
   enjoy a richer, more immersive outdoor experience.In this article we’ll talk
@@ -29,7 +29,7 @@ First of all, you need to narrow down your trip options, the following will help
 
 ## Resources for Backpacking
 
-{{< cloudimg id="blog/how-to-plan-a-trip-2_uwyuxr" caption="Gathering required resources" >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/2-how-to-plan-backpacking-trip/how-to-plan-a-trip-2_uwyuxr_eOOz96Usdl.jpg" caption="Gathering required resources" >}}
 
 After narrowing down your trip options you’ll be able to find trails that will meet your goals and will be appropriate for your skill level.
 
@@ -57,7 +57,7 @@ Now that you know the details of your destination, you’re ready to ensure you�
 * Shared gear: Going with others? Decide who’s bringing what to avoid duplication or missing items. Commonly shared gear includes a stove, tent, and water filter.
 * Checklist: Make a checklist and layout the all the gear and check the items before you pack. Also, ask yourself, does this trip require something you don’t have.
 
-{{< cloudimg id="blog/how-to-plan-a-trip-3_zwzmpz" caption="Supplies and gear" >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/2-how-to-plan-backpacking-trip/how-to-plan-a-trip-3_zwzmpz_8jP4gP91W.jpg" caption="Supplies and gear" >}}
 
 ## Final Preparation
 

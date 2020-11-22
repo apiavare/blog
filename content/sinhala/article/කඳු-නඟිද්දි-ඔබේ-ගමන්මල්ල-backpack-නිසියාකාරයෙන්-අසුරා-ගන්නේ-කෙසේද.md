@@ -5,7 +5,7 @@ translationKey: how-to-pack-your-backpack-properly-for-a-hike
 date: 2020-09-01T07:27:30.333Z
 authors:
   - team-api-avare
-cloudimg: blog/how-to-pack-backpack-1_kleuzm
+cloudimg: https://ik.imagekit.io/fpvcjwcgd4/blog/3-how-to-pack-your-backpack/how-to-pack-backpack-1_kleuzm_DTHOgOotQ.jpg
 description: ඔබ දැනටමත් බැක්පැකින් සවාරි රැසකට සහභාගීව තිබෙන යම් පලපුරුදු
   බැක්පැකර් කෙනෙක් වෙන්න පුළුවන්. නමුත් ඔබේ ගමන්මල්ල (බැක්පැක් එක) අසුරාගන්න
   සම්මත ක්‍රමයක් තියන බව ඔබ දැනසිටියාද?  එය නිසියාකාරව අසුරා නොතිබුණ හොත් මුළු
@@ -21,14 +21,13 @@ categories:
 
 ## ගමන්මල්ලක ප්‍රධාන ඇසුරුම් කොටස් (Storage Compartments)
 
-{{< cloudimg id="blog/how-to-pack-backpack-2_om7fpf" caption="Main parts of a backpack" >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/3-how-to-pack-your-backpack/how-to-pack-backpack-2_om7fpf_Eg5pRqLAu.png" caption="ගමන්මල්ලක ප්‍රධාන කොටස්" >}}
 
 ## ගමන්මල්ල අසුරාගැනීමේදී සැලකිලිමත් වියයුතු කරුණු
 
 ඔබේ ගමන්මල්ල සැකසීමේදී ඔබ සැළකිලිමත් විය යුතු ප්‍රධානතම කරුණු දෙකක් පවතී. එනම් ඔබේ සමස්ථ ගුරුවත්වකේන්ද්‍රය ඔබට සුවපහසු අයුරු පවත්වා ගතහැකි ලෙසත්, අවශ්‍ය ආම්පන්න අදාල අවස්ථාවේදී ඉක්මණින් පහසු ලෙස ලබා ගත හැකි ලෙසත් අසුරා ගැනීමයි.
 
-{{< cloudimg id="blog/how-to-pack-backpack-3_uet4vg" caption="Packing the backpack" >}}
-
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/3-how-to-pack-your-backpack/how-to-pack-backpack-3_uet4vg_Dfna2kJoC.jpg" caption="ගමන්මල්ල අසුරාගැනීම" >}}
 ### පහළ කොටස(Bottom zone)
 
 විශාල හා කඳවුරු බඳින තෙක් ගමන අතරතුර අවශ්‍ය නොවන ආම්පන්න ඇසිරීම සඳහා
@@ -69,7 +68,7 @@ categories:
 
 ගමන්මල්ලේ වර්ගය මත පියනේ පොකට්, ඉදිරිපස පොකට්, සයිඩ් පොකට් හා උකුල් පටිය මත පොකට් ආදී විවිධ පොකට්ටු තිබිය හැක.
 
-{{< cloudimg id="blog/how-to-pack-backpack-4_wsqyef" caption="Accessory pockets" >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/3-how-to-pack-your-backpack/how-to-pack-backpack-4_wsqyef_mKpEN8W3J.jpg" caption="අමතර පොකට්" class="w500" >}}
 
 වඩාත් අත්‍යවශ්‍ය, ගමන අතරතුරදී හදිසියේදී ක්ෂණිකව ලබාගැනීමට අවශ්‍ය දෑ මෙහි අසුරයි.
 
@@ -99,7 +98,7 @@ categories:
 * විශාල නිදන පෑඩ්ස් (Large sleeping pads)
 * කඳු නගින කඹ(Climbing ropes)
 
-{{< cloudimg id="blog/how-to-pack-backpack-5_sc0n0i" caption="Loops and lash-on points" >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/3-how-to-pack-your-backpack/how-to-pack-backpack-5_sc0n0i_LzF92rNt0.jpg" caption="මෙවලම් රඳවන" >}}
 
 බොහෝ ගමන්මලු වල මෙවැනි මෙවලම් රැඳවීම සඳහා විශේෂිත වු රඳවන, ගාංචු වැනි ක්‍රමවේදයන් පවතී. එමෙන්ම මේ සඳහා ගමන්මල්ලේ ඇති ඩෙයිසි චේන්ස් (daisy chains), ලෑස් පැචස් (lash patches) හා සම්පීඩන පටි (compression straps) ආදියද විකල්පයක් ලෙස භාවිතා කළහැක.
 

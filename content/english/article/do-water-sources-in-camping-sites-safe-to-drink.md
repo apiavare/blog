@@ -5,7 +5,7 @@ translationKey: Water_treatment_techniques_for_backpackers
 date: 2020-10-11T14:33:59.729Z
 authors:
   - team-api-avare
-cloudimg: blog/water_treatments/water_treatment1_ktimdh
+cloudimg: https://ik.imagekit.io/fpvcjwcgd4/blog/6-water-treatment-techniques-for-backpacking/water_treatment1_ktimdh_HdqGkSTe4X.jpg
 description: Even though how perfect that mountain stream looks, we can’t assure
   it is harboring a gut-seeking microbe or not. Therefore, follow the below tips
   to get safe drinkable water at your campsite.
@@ -36,7 +36,7 @@ These are the most common waterborne pathogens found in water sources,
 * A single-celled organism, which infects humans through contaminated water. E-coli and salmonella are some of the most common bacteria.        
 * Cause intestinal (enteric) infections such as Typhoid. Symptoms would be fever, headache, abdominal pain and even can cause diarrhea.
 
-{{< cloudimg id="blog/water_treatments/water_treatment2_stoncl" caption="E-coli bacteria " >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/6-water-treatment-techniques-for-backpacking/water_treatment2_stoncl_o7kPCgBDw.jpg" caption="E-coli bacteria " >}}
 
 #### **Viruses:**
 
@@ -48,7 +48,7 @@ These are the most common waterborne pathogens found in water sources,
 * Most common waterborne protozoa types include Cryptosporidium, Giardia, and Entameba histolytica. 
 * Cause diarrhea, fatigue, loss of appetite, amebic dysentery.
 
-{{< cloudimg id="blog/water_treatments/water_treatment3_vwk7gz" caption="Giardia" >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/6-water-treatment-techniques-for-backpacking/water_treatment3_vwk7gz_GndvirqMPb.jpg" caption="Giardia" >}}
 
 #### **Parasitic worms:**
 
@@ -71,7 +71,7 @@ Follow the below tips to get safe drinkable water at your campsite.
 * If no clear flowing water, then look for calm water (a lake, a pool, a slow-moving stream) without a lot of sediment and silt.
 * After heavy rainfall, do not rush to gather water from any source. Because rain may have washed surface material into them, increasing bacterial, and mud contamination in loads.
 
-{{< cloudimg id="blog/water_treatments/water_treatment4_sfmopo" caption="Gathering Water " >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/6-water-treatment-techniques-for-backpacking/water_treatment4_sfmopo_SS5ao6y0di.jpg" caption="Gathering Water " >}}
 
 #### **2. Gathering water:**
 
@@ -83,16 +83,16 @@ Follow the below tips to get safe drinkable water at your campsite.
 
 * **Boiling** is a bit old school but still an effective method of treating water. The  Heat will kill most of the common intestinal pathogens at 60-70<sup>0 </sup>  C, well below the boiling point. However, boiling the water to the boiling point for 1 minute allows a margin of safety. Although the boiling point decreases with altitude, at common terrestrial travel elevations it is still well above the temperature required to inactivate enteric pathogens.
 
-{{< cloudimg id="blog/water_treatments/water_treatment5_caexy0" caption="Boiling Water " >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/6-water-treatment-techniques-for-backpacking/water_treatment5_caexy0_vGjdIWu8A.jpg" caption="Boiling Water " >}}
 
 * **Water Filters** are used for water treatment by most international travelers. Portable hand-pump or gravity-drip filters with different pore sizes are available commercially. Filters with pore sizes between 0.1 and 0.4 microns can remove bacteria but not the viruses. Reverse osmosis filters remove bacteria, viruses and even salt from water.
 
-{{< cloudimg id="blog/water_treatments/water_treatment6_bd9rkw" caption="Water Filter" >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/6-water-treatment-techniques-for-backpacking/water_treatment6_bd9rkw_PJtuqvkSI7r.jpg" caption="Water Filter" >}}
 
 * **Chemical water treatment**, tablets or packets to disinfect water are too favorite among lightweight backpackers. These usually combine chemical disinfectants (such as chlorine or iodine) with a substance that makes the water clear and improves its taste. You need to follow the instructions on the package closely when using it.
 
-{{< cloudimg id="blog/water_treatments/water_treatment7_mpwxhw" caption="Chemical water treatment kit   " >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/6-water-treatment-techniques-for-backpacking/water_treatment7_mpwxhw_MPjDZmOqzud.jpg" caption="Chemical water treatment kit   " >}}
 
 * **UV light lamps/pens** are another quick way of purifying water. This is effective to disinfect small quantities of clear water. UV light disrupts the DNA of bacteria, parasites and viruses. However, this technique is less effective in cloudy water because small particles may shield germs from the light.
 
-{{< cloudimg id="blog/water_treatments/water_treatment8_m82dyf" caption="Water treatment with UV pen   " >}}
+{{< imagekit path="https://ik.imagekit.io/fpvcjwcgd4/blog/6-water-treatment-techniques-for-backpacking/water_treatment8_m82dyf_CPpJkwY7tJ.jpg" caption="Water treatment with UV pen   " >}}
