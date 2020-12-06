@@ -17,9 +17,11 @@
                         {{ .path }}?tr=w-1280,h-500 1280w" data-flickity-lazyload="{{ .path }}?tr=w-512,h-500"
                     alt="Caption" />
                 {{ if .link }}
-                    <a href="{{ .link | safeURL}}"><figcaption class="carousel-cell-caption">{{ .caption }}</figcaption></a>
+                <a href="{{ .link | safeURL}}">
+                    <figcaption class="carousel-cell-caption vivify">{{ .caption }}</figcaption>
+                </a>
                 {{ else }}
-                    <figcaption class="carousel-cell-caption">{{ .caption }}</figcaption>
+                <figcaption class="carousel-cell-caption vivify">{{ .caption }}</figcaption>
                 {{ end }}
             </figure>
         </div>
