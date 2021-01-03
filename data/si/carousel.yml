@@ -1,16 +1,16 @@
 carousel:
   enable: true
-  title: මාතෘකාව
-  subtitle: විස්තරාත්මක කොටස
+  title: ත්‍රාසජනක චාරිකා හා වනජීවීන් පිළිබඳ දැනුම් මූලාශ්‍රය
+  #subtitle: විස්තරාත්මක කොටස
   
   slides:
-    - caption: මාතෘකාව 1
-      path: https://ik.imagekit.io/fpvcjwcgd4/blog/1-backpacking-basics/backpacking-basics-3_c5otyr_gPRmg8MH0.jpg
-      link: https://facebook.com/apiavare#1
+    - caption: දැන ත්‍රාසය ලබමු
+      path: https://ik.imagekit.io/fpvcjwcgd4/blog/carousel/P1_ROz5aSp39.jpg
+      #link: https://facebook.com/apiavare#1
 
-    - caption: මාතෘකාව 2
-      path: https://ik.imagekit.io/fpvcjwcgd4/blog/1-backpacking-basics/backpacking-basics-2_xvxhrm_QXLDbMkZF.jpg
+    - caption: සොබාදහම කියවන්න උගනිමු
+      path: https://ik.imagekit.io/fpvcjwcgd4/blog/carousel/P2_0qW0riCkb.jpg
 
-    - caption: මාතෘකාව 3
-      path: https://ik.imagekit.io/fpvcjwcgd4/blog/1-backpacking-basics/backpacking-basics-1_pz2651_w2nOBNaNW.jpg
-      link: https://facebook.com/apiavare#3
+    - caption: එනතුරු මග බලාසිටී.
+      path: https://ik.imagekit.io/fpvcjwcgd4/blog/carousel/P3_YkzGlB5X5.jpg
+      #link: https://facebook.com/apiavare#3
