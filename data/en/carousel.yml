@@ -1,16 +1,16 @@
 carousel:
   enable: true
-  title: Editors' pick
+  title:  Best Travel, Adventure & Wildlife Knowledge Provider
   subtitle: A handpicked collection of stunning moments captured by talented photographers
   
   slides:
-    - caption: Caption 1
-      path: https://ik.imagekit.io/fpvcjwcgd4/blog/5-guide-to-meal-planning-for-backpacking/p1_dh2fpt_u0PraQUV-9H.jpg
-      link: https://facebook.com/apiavare#1
+    - caption: Know Before Adventure
+      path: https://ik.imagekit.io/fpvcjwcgd4/blog/carousel/P1_ROz5aSp39.jpg
+      #link: https://facebook.com/apiavare#1
 
-    - caption: Caption 2
-      path: https://ik.imagekit.io/fpvcjwcgd4/blog/5-guide-to-meal-planning-for-backpacking/p2_qMPTbZOSdT.jpg
+    - caption: Learn To Read Nature
+      path: https://ik.imagekit.io/fpvcjwcgd4/blog/carousel/P2_0qW0riCkb.jpg
 
-    - caption: Caption 3
-      path: https://ik.imagekit.io/fpvcjwcgd4/blog/5-guide-to-meal-planning-for-backpacking/p4_Q2EHyDRNuS.jpg
-      link: https://facebook.com/apiavare#3
+    - caption: Roads Await
+      path: https://ik.imagekit.io/fpvcjwcgd4/blog/carousel/P3_YkzGlB5X5.jpg
+      #link: https://facebook.com/apiavare#3
