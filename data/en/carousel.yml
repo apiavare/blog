@@ -1,7 +1,7 @@
 carousel:
   enable: true
-  title:  Best Travel, Adventure & Wildlife Knowledge Provider
-  subtitle: A handpicked collection of stunning moments captured by talented photographers
+  title:  Editors' pick
+  subtitle: Best Travel, Adventure & Wildlife Knowledge Provider
   
   slides:
     - caption: Know Before Adventure
