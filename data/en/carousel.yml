@@ -1,11 +1,11 @@
 carousel:
   enable: true
-  title:  Editors' pick
-  subtitle: Best Travel, Adventure & Wildlife Knowledge Provider
+  title:  Best Travel, Adventure & Wildlife Knowledge Provider
+  #subtitle: 
   
   slides:
     - caption: Know Before Adventure
-      path: https://ik.imagekit.io/fpvcjwcgd4/blog/carousel/P1_ROz5aSp39.jpg
+      path: https://ik.imagekit.io/fpvcjwcgd4/blog/carousel/P1_ROz5aSp39.jpg?tr=w-3320,h-1669,fo-custom,cm-extract
       #link: https://facebook.com/apiavare#1
 
     - caption: Learn To Read Nature
