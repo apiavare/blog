@@ -4,13 +4,13 @@ carousel:
   #subtitle: විස්තරාත්මක කොටස
   
   slides:
-    - caption: දැන ත්‍රාසය ලබමු
+    - caption: දත්‍රාසයට පෙර දැනුම
       path: https://ik.imagekit.io/fpvcjwcgd4/blog/carousel/P1_ROz5aSp39.jpg
       #link: https://facebook.com/apiavare#1
 
-    - caption: සොබාදහම කියවන්න උගනිමු
+    - caption: සසොබාදහම කියවන්න ඉගෙනගමු
       path: https://ik.imagekit.io/fpvcjwcgd4/blog/carousel/P2_0qW0riCkb.jpg
 
-    - caption: එනතුරු මග බලාසිටී.
+    - caption: ඔබ එනතුරු මග බලාසිටී
       path: https://ik.imagekit.io/fpvcjwcgd4/blog/carousel/P3_YkzGlB5X5.jpg
       #link: https://facebook.com/apiavare#3
