@@ -6,8 +6,8 @@ publish_mode: editorial_workflow
 media_folder: "static/images/blog" #Actual media directory
 public_folder: "/images/blog" #For the src attribute in media
 
-site_url: https://apiavare.blog
-logo_url: https://apiavare.blog/images/favicon.png
+site_url: https://api-avare.netlify.app
+logo_url: https://api-avare.netlify.app/images/favicon.png
 
 collections:
   - name: "articles-si"
